@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/css/styles.css">
+    <title>Radiology Report Structuring</title>
+</head>
+
+<body>
+    <div id="disclaimer">
+        <p>This application is for research and educational use only. Do not upload patient information or any other
+            sensitive information to a third party API.</p>
+    </div>
+    <div class="container">
+        <header>
+            <nav>
+                <a href="{{ url_for('reports') }}" class="pretty-link">View Example Reports</a></li>
+            </nav>
+        </header>
+        <h1>Radiology Report Structuring with GPT-4</h1>
+        <form method="POST" action="/process">
+            <label for="api_key">API Key:</label>
+            <input type="password" id="api_key" name="api_key" required>
+            <input type="file" id="fileInput" accept=".txt">
+            <textarea id="reportText" name="report" rows="10"></textarea>
+            <button id="submitBtn">Submit</button>
+            <img id="spinner" src="/static/img/spinner.gif" alt="Loading" style="display: none;">
+        </form>
+        <div id="jsonContainer">
+            <pre id="jsonOutput" style="display: none;"></pre>
+        </div>
+        <a id="downloadBtn" style="display: none;" download="structured_report.json">Download JSON</a>
+    </div>
+    <script src="/static/js/main.js"></script>
+</body>
+
+</html>

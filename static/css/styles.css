@@ -1,0 +1,101 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#fileInput {
+    display: block;
+    margin-bottom: 20px;
+}
+
+#reportText {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#spinner {
+    display: block;
+    margin: 20px auto;
+}
+
+#jsonOutput {
+    white-space: pre-wrap;
+    background-color: #f5f5f5;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+}
+
+a {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #28a745;
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+}
+
+a:hover {
+    background-color: #218838;
+}
+
+/* Smaller button styles */
+#submitApiKeyBtn {
+    padding: 0.5em 1em;
+    font-size: 0.8em;
+}
+
+#disclaimer {
+    background-color: rgb(255, 61, 61);
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+}
+
+.pretty-link {
+    color: #212c37;
+    text-decoration: none;
+    padding: 8px 0px;
+    background-color: #d2d2d3;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.pretty-link:hover {
+    background-color: #e9ecef;
+}

@@ -1,0 +1,2710 @@
+{
+    "MR_SHOULDER": {
+        "INDICATION": "",
+        "TECHNIQUE": "Multiplanar images of the shoulder were performed without the administration of intravenous or intra-articular contrast using a routine MRI shoulder protocol. Sequences include: (Axial PD FS, Coronal Oblique T2 FS, Sagittal Oblique T2 FS, Sagittal Oblique T1).",
+        "COMPARISON": "Compared to prior study from [ ].",
+        "FINDINGS": {
+            "SUPRASPINATUS": "Normal. There is no focal tear or tendinosis.",
+            "INFRASPINATUS": "Normal. There is no focal tear or tendinosis.",
+            "TERES_MINOR": "Normal. There is no focal tear or tendinosis.",
+            "SUBSCAPULARIS": "Normal. There is no focal tear or tendinosis.",
+            "ROTATOR_CUFF": "Normal. There is no fatty atrophy or decrease muscle bulk.",
+            "ACROMIO-CLAVICULAR_JOINT": "Normal. There are no significant degenerative changes.",
+            "BICEPS_TENDON": "The biceps tendon is well seated within the bicipital groove and attaches normally to the superior labrum.",
+            "GLENOID_LABRUM": "The labrum is intact without focal tear. There is no SLAP or labral Bankart injury.",
+            "GLENOHUMERAL_JOINT": "There is no joint effusion.",
+            "HYALINE_CARTILAGE": "Cartilage is preserved without focal defects or subchondral marrow edema.",
+            "BONE_MARROW": "There is no abnormal marrow edema or marrow replacing lesions.",
+            "SOFT_TISSUES": "There is no lymphadenopathy or abnormal masses. Neurovascular structures are within normal limits."
+        },
+        "IMPRESSION": "Normal MRI examination of the shoulder."
+    },
+    "MR_ELBOW": {
+        "INDICATION": "",
+        "TECHNIQUE": "Multiplanar images of the elbow were performed without the administration of intravenous or intra-articular contrast using a routine MRI elbow protocol. Sequences include: Axial T1, Axial T2 FS, Coronal T1, Coronal T2 FS, Coronal T2\u2217 GRE, Sagittal PD FS.",
+        "COMPARISON": "Compared to prior study from [ ].",
+        "FINDINGS": {
+            "BICEPS_TENDON": "There is no focal tear or tendinosis. The tendon has a normal insertion on the radial tuberosity.",
+            "BRACHIALIS_TENDON": "There is no focal tear or tendinosis. The tendon has normal insertion onto the ulna.",
+            "TRICEPS_TENDON": "There is no focal tear or tendinosis. There is a normal distal attachment at the olecranon.",
+            "RADIAL_COLLATERAL_LIGAMENT": "Within normal limits.",
+            "ULNAR_COLLATERAL_LIGAMENT": "Within normal limits.",
+            "LATERAL_ULNAR_COLLATERAL_LIGAMENT": "Within normal limits.",
+            "COMMON_EXTENSOR_TENDON": "Within normal limits.",
+            "COMMON_FLEXOR_TENDON": "Within normal limits.",
+            "JOINT_SPACE": "There is no joint effusion or osteoarthritis. No osteochondral lesions are seen.",
+            "BONE_MARROW_SIGNAL": "There is no marrow edema or marrow replacing lesions.",
+            "MUSCLES": "Muscle mass is preserved, without muscle edema or atrophy.",
+            "NERVES": "No abnormal signal or lesions seen within the expected location of the median, ulnar, or radial nerves.",
+            "CUBITAL_TUNNEL": "Normal"
+        },
+        "IMPRESSION": "Normal Elbow MRI examination."
+    },
+    "MR_WRIST": {
+        "INDICATION": "",
+        "TECHNIQUE": "Multiplanar images of the wrist were performed without the administration of intravenous or intra-articular contrast using a routine MRI wrist protocol (Axial PD, Axial T2 FS, Coronal T1, Coronal T2 FS, Coronal 3D T2\u2217 GRE, Sagittal T2).",
+        "COMPARISON": "Compared to prior study from [ ].",
+        "FINDINGS": {
+            "TRIANGULAR_FIBROCARTILAGE": "The central disc, radial and ulnar components are normal.",
+            "SCAPHOLUNATE_LIGAMENT": "The dorsal, membranous, and volar components are normal.",
+            "LUNOTRIQUETRAL_LIGAMENT": "The dorsal, membranous, and volar components are normal.",
+            "FLEXOR_TENDONS": "Normal. There is no tenosynovitis or focal tear.",
+            "EXTENSOR_TENDONS": "Normal. There is no tenosynovitis or focal tear.",
+            "CARPAL_TUNNEL": "There is no abnormal bowing. The median nerve is normal in signal and size.",
+            "GUYON'S_CANAL": "Within normal limits.",
+            "BONE_MARROW": "Within normal limits. No bone marrow edema or marrow replacing lesions. No erosions are seen.",
+            "JOINT_EFFUSION": "No joint effusion seen. No ganglia are seen.",
+            "MUSCLES": "Muscles about the wrist within normal limits without edema or fatty atrophy.",
+            "MASSES": "There are no abnormal masses detected about the wrist."
+        },
+        "IMPRESSION": "Normal MRI of the wrist"
+    },
+    "MR_HAND_FINGER": {
+        "INDICATION": "",
+        "TECHNIQUE": "Multiplanar images of the hand/finger/thumb were performed without the administration of intravenous or intra-articular contrast using a routine MRI hand/finger/thumb protocol (Axial PD, Axial T2 FS, Sagittal T2, Coronal T1, Coronal T2\u2217 GRE).",
+        "COMPARISON": "Compared to prior study from [ ].",
+        "FINDINGS": {
+            "BONE_MARROW": "Normal. There is no bone marrow edema or marrow replacing lesions. No erosions are seen.",
+            "FLEXOR_TENDONS": "The tendons have normal signal without focal tear, tendinosis or tenosynovitis. There is no bowstringing of the tendon to suggest a pulley injury.",
+            "EXTENSOR_TENDONS": "The tendons have normal signal without focal tear, tendinosis or tenosynovitis.",
+            "JOINT": "The collateral ligaments are intact without thickening or increase signal. No joint effusion seen. No ganglia are seen.",
+            "MUSCLES": "Muscles about the hand and fingers are within normal limits without edema or fatty atrophy.",
+            "SOFT_TISSUES": "There are no abnormal masses."
+        },
+        "IMPRESSION": "Normal MRI examination of the hand/finger/thumb."
+    },
+    "MR_HIP": {
+        "INDICATION": "",
+        "TECHNIQUE": "",
+        "MULTIPLANAR_IMAGES": "of the [right or left] hip were performed [without] the administration of intravenous contrast using a unilateral [] hip MR protocol. Sequences include: Coronal T1 (bilateral large FOV), Coronal STIR (bilateral large FOV), Axial Oblique PD FS (unilateral), Coronal PD FS (unilateral), Sagittal PD FS (unilateral).",
+        "COMPARISON": "Compared to prior study from [ ].",
+        "FINDINGS": {
+            "MARROW_SIGNAL": "There is normal marrow signal within the proximal femurs bilaterally. There are no signs for avascular necrosis or stress fracture. The marrow signal throughout the rest of the pelvis is preserved. There is normal signal at the sacroiliac joints and lower lumbar spine.",
+            "FOCUSED_IMAGING": "of the [right/left] hip demonstrates no significant joint effusion. The articular cartilage is relatively preserved. There are no displaced labral tears. There is no greater trochanteric bursitis. The hamstring insertion onto the ischial tuberosity is normal. There is normal muscle bulk without fatty atrophy.",
+            "INTRA-ABDOMINAL_CONTENTS": "The visualized intra-abdominal contents are within normal limits."
+        },
+        "IMPRESSION": "Normal exam of the [right or left] hip."
+    },
+    "MR_KNEE": {
+        "INDICATION": "",
+        "TECHNIQUE": "Multiplanar images of the knee were performed without the administration of intravenous contrast using a routine MR knee protocol. Sequences include: Axial PD FS, Sagittal PD, Sagittal T2 FS, Coronal PD FS.",
+        "COMPARISON": "Compared to prior studies from [ ].",
+        "FINDINGS": {
+            "MEDIAL_MENISCUS": "There is normal morphology without focal tear.",
+            "LATERAL_MENISCUS": "There is normal morphology without focal tear.",
+            "ANTERIOR_CRUCIATE_LIGAMENT": "There is normal alignment without focal tear.",
+            "POSTERIOR_CRUCIATE_LIGAMENT": "There is normal alignment without focal tear.",
+            "MEDIAL_COLLATERAL_LIGAMENT": "Normal",
+            "LATERAL_COLLATERAL_LIGAMENTOUS_COMPLEX": "The iliotibial band, fibular collateral ligament, biceps femoris tendon, and popliteus are normal.",
+            "EXTENSOR_MECHANISM": "The quadriceps tendon and patellar tendon are normal. There is normal fatty signal in Hoffa\u2019s fat pad. There is no prepatellar bursitis.",
+            "BAKER'S_CYST": "None",
+            "JOINT_EFFUSION": "None",
+            "PATELLOFEMORAL_ARTICULAR_CARTILAGE": "The cartilage is preserved without focal defects or subchondral marrow edema.",
+            "MEDIAL_ARTICULAR_CARTILAGE": "The cartilage is preserved without focal defects or subchondral marrow edema.",
+            "LATERAL_COMPARTMENT_CARTILAGE": "The cartilage is preserved without focal defects or subchondral marrow edema.",
+            "MARROW": "There is no abnormal marrow edema or marrow replacing lesions.",
+            "SOFT_TISSUES": "There is no lymphadenopathy or abnormal masses. Neurovascular structures are within normal limits."
+        },
+        "IMPRESSION": "Normal MRI examination of the knee."
+    },
+    "MR_ANKLE": {
+        "INDICATION": "",
+        "TECHNIQUE": "Multiplanar images of the ankle were performed without the administration of intravenous contrast using a routine MR ankle protocol. Sequences include: Axial PD, Axial T2 FS, Sagittal T1, Sagittal STIR, Coronal PD FS.",
+        "COMPARISON": "Compared to prior study from [ ].",
+        "FINDINGS": {
+            "ACHILLES_TENDON": "Normal, there is no tendinosis or focal tear. There is no edema in Kager\u2019s pad fat. No fluid is seen in the retrocalcaneal or retro-Achilles bursae",
+            "POSTERIOR_TIBIAL_TENDON": "Normal. There is no tendinosis, focal tear or tenosynovitis",
+            "FLEXOR_DIGITORUM_TENDON": "Normal. There is no tendinosis, focal tear or tenosynovitis",
+            "FLEXOR_HALLUCIS_TENDON": "Normal. There is no tendinosis, focal tear or tenosynovitis",
+            "PERONEAL_TENDONS": "Normal. There is no tendinosis, focal tear or tenosynovitis",
+            "ANTERIOR_TIBIALIS_TENDON": "Normal. There is no tendinosis, focal tear or tenosynovitis",
+            "EXTENSOR_DIGITORUM_TENDON": "Normal. There is no tendinosis, focal tear or tenosynovitis",
+            "EXTENSOR_HALLUCIS_LONGUS": "Normal. There is no tendinosis, focal tear or tenosynovitis",
+            "ANTERIOR_TIBIOFIBULAR_LIGAMENT": "Normal",
+            "POSTERIOR_TIBIOFIBULAR_LIGAMENT": "Normal",
+            "ANTERIOR_TALOFIBULAR_LIGAMENT": "Normal",
+            "POSTERIOR_TALOFIBULAR_LIGAMENT": "Normal",
+            "CALCANEOFIBULAR_LIGAMENT": "Normal.",
+            "TIBIOTALAR_LIGAMENT": "Normal.",
+            "TIBIOSPRING_LIGAMENT": "Normal.",
+            "SPRING_LIGAMENT": "Normal.",
+            "SINUS_TARSI": "Normal. There is preservation of the normal fatty signal without edema or focal mass",
+            "PLANTAR_FASCIA": "Normal. There is no thickening of the fascial cords or surrounding edema.",
+            "TIBIOTALAR_JOINT_SPACE": "There is no joint effusion or osteochondral lesions.",
+            "MARROW_SIGNAL": "Normal."
+        },
+        "IMPRESSION": "Normal MRI of the ankle."
+    },
+    "CT_PANKREAS_TUMOR": {
+        "INDICATION": "",
+        "TECHNIQUE": "Non-contrast, arterial phase, and venous phase contrast-enhanced CT images of the abdomen and pelvis were obtained using a multidetector CT scanner. RADIATION DOSE (DLP): [dose] mGy*cm.",
+        "COMPARISON": {
+            "PANCREATIC_TUMOR_TABLE": {
+                "PANCREATIC_TUMOR_PRESENT": "yes/no",
+                "LOCATION": "head/neck/body/tail",
+                "SIZE": "_ x cm",
+                "ENHANCEMENT_RELATIVE_TO_PANCREAS": "hypo/iso/hyper",
+                "CONFINED_TO_PANCREAS_WITH_CLEAR_FAT_PLANE": "yes/no",
+                "BILIARY_INVOLVEMENT": "yes/no",
+                "REMAINING_PANCREAS": "yes/no ductal dilation"
+            },
+            "ADENOPATHY_PRESENT": "yes/no",
+            "METASTATIC_DISEASE": "yes/no",
+            "ASCITES_PERIPANCREATIC_FLUID": "yes/no",
+            "PANCREATIC_VASCULAR_TABLE": {
+                "VASCULAR_TUMOR_INVOLVEMENT_AND_DEGREE": "(90\u00b0, 180\u00b0, 360\u00b0)/no",
+                "CELIAC_INVOLVEMENT": "_% /no",
+                "SMA_INVOLVEMENT": "% /no",
+                "SMV_INVOLVEMENT": "% /no",
+                "OTHER_VASCULAR_INVOLVEMENT": "yes/no Specify:",
+                "THROMBOSIS_ANY_VESSEL": "yes/no Specify:",
+                "ABERRANT_ANATOMY": {
+                    "REPLACED_RIGHT_HEPATIC_ARTERY": "yes/no",
+                    "MAJOR_ACCESSORY_OR_OTHER_REPLACED_ARTERIES_VEINS_COLLATERALS_DILATED_VESSELS": "yes/no Specify:"
+                },
+                "ATHEROSCLEROTIC_ORIGINS_OF_CELIAC_AXIS_SMA": "yes/no",
+                "DISTANCE_TO_SMV": "mm"
+            }
+        },
+        "IMPRESSION": ""
+    },
+    "CT_CALCIUM_SCORE": {
+        "ECG_GATING": "None, Prospective, Retrospective",
+        "SCAN_RANGE": {
+            "FROM": "",
+            "TO": ""
+        },
+        "COMPLICATIONS": "None.",
+        "CLINICAL_INFORMATION": "Coronary artery disease risk assessment.",
+        "COMPARISON": "None.",
+        "FINDINGS": "",
+        "TECHNICAL_QUALITY": {
+            "EXAMINATION_QUALITY": "Excellent, Good, Fair, Poor, Nondiagnostic",
+            "LIMITATION": "None, Misregistration artifacts, Patient motion, Calcium blooming artifacts, Metal artifact, Arrhythmia"
+        },
+        "OVERALL_SCORES": {
+            "AGATSTON_SCORE": "",
+            "TOTAL_CALCIUM_SCORE": "",
+            "TOTAL_VOLUME_SCORE": "mm3",
+            "PERCENTILE": "%"
+        },
+        "ARTERY_SCORES": {
+            "LEFT_MAIN_CORONARY_ARTERY": "",
+            "LEFT_ANTERIOR_DESCENDING_ARTERY": "",
+            "LEFT_CIRCUMFLEX_ARTERY": "",
+            "RIGHT_CORONARY_ARTERY": ""
+        },
+        "CARDIAC_CHAMBER": "",
+        "AORTIC_ROOT": "",
+        "THORACIC_AORTA": "",
+        "PULMONARY_ARTERY": "",
+        "LUNGS": "",
+        "OTHER": "",
+        "IMPRESSION": "None."
+    },
+    "CT_CARDIAC_ANGIOGRAPHY": {
+        "ACTIVE": 0,
+        "CLINICAL_INFORMATION": {
+            "QUESTION": ""
+        },
+        "METHOD": {
+            "PRE-MEDICATION": "",
+            "ACQUISITION_TECHNIQUE": "",
+            "RECONSTRUCTION/POST-PROCESSING": "",
+            "DLP": ""
+        },
+        "PATIENT_CHARACTERISTICS": {
+            "GENDER": "Female/Male/Other",
+            "BODY_WEIGHT": "kg",
+            "BODY_HEIGHT": "m",
+            "BODY_SURFACE_AREA_(BSA)": "m",
+            "PACEMAKER": "No/Yes",
+            "AVERAGE_FREQUENCY": "/min",
+            "ARRHYTHMIA": "No/Yes"
+        },
+        "FINDINGS": {
+            "PREVIOUS_EXAMINATION": "",
+            "LIMITED_IMAGE_QUALITY": "No/Yes",
+            "AGATSON_SCORE_(OPTIONAL)": "",
+            "DOMINANT_TYPE_OF_SUPPLY": "Right/Left/Co-dominant",
+            "CORONARY_ARTERY_ORIGINS_AND_COURSE": "",
+            "PLAQUES": {
+                "LEFT_CORONARY_ARTERY_(LCA)": "None/Calcified/Non-calcified/Mixed",
+                "RIGHT_CORONARY_ARTERY_(RIVA)": "None/Calcified/Non-calcified/Mixed",
+                "LEFT_CIRCUMFLEX_ARTERY_(LCX)": "None/Calcified/Non-calcified/Mixed",
+                "RAMUS_INTERMEDIUS_(R._INTERMEDIUS)": "None/Calcified/Non-calcified/Mixed",
+                "RIGHT_CORONARY_ARTERY_(RCA)": "None/Calcified/Non-calcified/Mixed"
+            },
+            "DEGREE_OF_STENOSIS": "None/Minimal (1-24%)/Mild (25-49%)/Moderate (50-69%)/Severe (70-99%)/Occluded",
+            "STENT": "No/Yes",
+            "COMMENTS": ""
+        },
+        "ASSESSMENT": {
+            "1": "CT-angiographically normal coronary arteries with exclusion of coronary heart disease (CHD) / CHD with mild plaque burden / CHD with non-severe stenosis / CHD with severe stenosis",
+            "2": "The determined Agatston score of XXX corresponds to the XXth percentile of an age- and gender-matched comparison cohort (Raggi et al. Circulation 2006).",
+            "3": "CADRADS (see Cury et al. Journal of Cardiovascular CT, 2016): XXX",
+            "4": "(Additional comments)"
+        },
+        "RECOMMENDATIONS": ""
+    },
+    "MR_RIGHT_HEART_FAILURE": {
+        "CLINICAL_INFORMATION": "",
+        "COMPARISON": "None.",
+        "FINDINGS": {
+            "LEFT_VENTRICULAR_MEASUREMENTS": {
+                "END_DIASTOLIC_DIAMETER": "",
+                "EJECTION_FRACTION": "",
+                "STROKE_VOLUME": "",
+                "END_DIASTOLIC_VOLUME": "",
+                "INDEXED_END_DIASTOLIC_VOLUME": "",
+                "END_SYSTOLIC_VOLUME": "",
+                "INDEXED_END_SYSTOLIC_VOLUME": "",
+                "CARDIAC_OUTPUT": "",
+                "CARDIAC_INDEX": "",
+                "INDEX_VALUES_NORMALIZED_TO_BODY_SURFACE_AREA": ""
+            },
+            "RIGHT_VENTRICULAR_MEASUREMENTS": {
+                "END_DIASTOLIC_DIAMETER": "",
+                "EJECTION_FRACTION": "",
+                "STROKE_VOLUME": "",
+                "END_DIASTOLIC_VOLUME": "",
+                "INDEXED_END_DIASTOLIC_VOLUME": "",
+                "END_SYSTOLIC_VOLUME": "",
+                "INDEXED_END_SYSTOLIC_VOLUME": "",
+                "CARDIAC_OUTPUT": "",
+                "CARDIAC_INDEX": ""
+            },
+            "VALVES": {
+                "AORTIC_VALVE": "Normal.",
+                "AORTIC_FORWARD_VOLUME": "",
+                "AORTIC_REGURGITANT_VOLUME": "",
+                "AORTIC_VALVE_AREA": "",
+                "MITRAL_VALVE": "",
+                "MITRAL_REGURGITANT_VOLUME": "",
+                "MITRAL_VALVE_AREA": "",
+                "TRICUSPID_VALVE": "",
+                "TRICUSPID_REGURGITANT_VOLUME": "",
+                "PULMONIC_VALVE": "",
+                "PULMONIC_REGURGITANT_VOLUME": "",
+                "PULMONIC_FORWARD_VOLUME": "",
+                "PULMONIC_VALVE_AREA": ""
+            },
+            "IMPRESSION": {
+                "RIGHT_VENTRICLE": {
+                    "SIZE": "",
+                    "FUNCTION": ""
+                },
+                "LEFT_VENTRICLE": {
+                    "SIZE": "",
+                    "FUNCTION": ""
+                },
+                "RIGHT_ATRIUM": "",
+                "LEFT_ATRIUM": "",
+                "PERICARDIUM": "",
+                "GREAT_VESSELS": "",
+                "AORTA": "",
+                "PULMONARY_ARTERY": "",
+                "PULMONARY_VEINS": "",
+                "INFERIOR_VENA_CAVA": "",
+                "SUPERIOR_VENA_CAVA": "",
+                "EXTRA_CARDIAC_FINDINGS": ""
+            }
+        }
+    },
+    "MR_CARDIAC_FUNCTION_VITALITY": {
+        "CLINICAL_INFORMATION": "",
+        "COMPARISON": "None",
+        "FINDINGS": {
+            "LEFT_VENTRICULAR_MEASUREMENTS": {
+                "END_DIASTOLIC_DIAMETER": {
+                    "VALUE": "",
+                    "NORMAL_RANGE": "36-56 mm"
+                },
+                "EJECTION_FRACTION": {
+                    "VALUE": "",
+                    "NORMAL_RANGE": {
+                        "MALE": "56-78%",
+                        "FEMALE": "56-78%"
+                    }
+                },
+                "STROKE_VOLUME": "",
+                "END_DIASTOLIC_VOLUME": {
+                    "VALUE": "",
+                    "NORMAL_RANGE": {
+                        "MALE": "77-195 mL",
+                        "FEMALE": "52-141 mL"
+                    }
+                },
+                "INDEXED_END_DIASTOLIC_VOLUME": "",
+                "END_SYSTOLIC_VOLUME": {
+                    "VALUE": "",
+                    "NORMAL_RANGE": {
+                        "MALE": "19-72 mL",
+                        "FEMALE": "13-51 mL"
+                    }
+                },
+                "INDEXED_END_SYSTOLIC_VOLUME": "",
+                "CARDIAC_OUTPUT": {
+                    "VALUE": "",
+                    "NORMAL_RANGE": {
+                        "MALE": "2.82-8.82 L/min",
+                        "FEMALE": "2.7-6.0 l/min"
+                    }
+                },
+                "CARDIAC_INDEX": "",
+                "BODY_SURFACE_AREA": ""
+            },
+            "VALVE_DISEASE": {
+                "AORTIC_VALVE": {
+                    "AORTIC_FORWARD_VOLUME": "",
+                    "AORTIC_REGURGITANT_VOLUME": "",
+                    "AORTIC_VALVE_AREA": {
+                        "VALUE": "",
+                        "DESCRIPTION": {
+                            "SEVERE": "< 1.0 cm2",
+                            "MODERATE": "1.0-1.5 cm2",
+                            "MILD": "1.5-2.0 cm2",
+                            "NORMAL": "> 2.0 cm2"
+                        }
+                    }
+                },
+                "MITRAL_VALVE": {
+                    "MITRAL_REGURGITANT_VOLUME": "",
+                    "MITRAL_REGURGITANT_FRACTION": "",
+                    "ASCENDING_AORTA_DIAMETER": "",
+                    "LEFT_ATRIAL_DIMENSIONS": "",
+                    "LEFT_ATRIAL_AREA": ""
+                }
+            },
+            "LEFT_VENTRICLE_REGIONAL_WALL_MOTION": {
+                "BASE": [
+                    "Anterior",
+                    "Anterolateral",
+                    "Inferolateral",
+                    "Inferior",
+                    "Inferioseptal",
+                    "Anteroseptal"
+                ],
+                "MID": [
+                    "Anterior",
+                    "Anterolateral",
+                    "Inferolateral",
+                    "Inferior",
+                    "Inferioseptal",
+                    "Anteroseptal"
+                ],
+                "APEX": [
+                    "Anterior",
+                    "Lateral",
+                    "Inferior",
+                    "Septum",
+                    "True apex"
+                ],
+                "WALL_MOTION_SCORE": {
+                    "0": "normokinetic",
+                    "1": "hypokinetic",
+                    "2": "akinetic",
+                    "3": "dyskinetic"
+                }
+            },
+            "LEFT_VENTRICLE_MYOCARDIAL_ENHANCEMENT": {
+                "BASE": [
+                    "Anterior",
+                    "Anterolateral",
+                    "Inferolateral",
+                    "Inferior",
+                    "Inferioseptal",
+                    "Anteroseptal"
+                ],
+                "MID": [
+                    "Anterior",
+                    "Anterolateral",
+                    "Inferolateral",
+                    "Inferior",
+                    "Inferioseptal",
+                    "Anteroseptal"
+                ],
+                "APEX": [
+                    "Anterior",
+                    "Lateral",
+                    "Inferior",
+                    "Septum",
+                    "True apex"
+                ],
+                "ENHANCEMENT_SCORE": {
+                    "0": "none",
+                    "1": "1-25%",
+                    "2": "26-50%",
+                    "3": "51-75%",
+                    "4": "76-100%"
+                }
+            },
+            "NON_CARDIAC_FINDINGS": "",
+            "IMPRESSION": {
+                "GLOBAL_SYSTOLIC_LV_FUNCTION": {
+                    "NORMAL": "",
+                    "MILDLY_IMPAIRED": "",
+                    "MODERATELY_IMPAIRED": "",
+                    "SEVERELY_IMPAIRED": ""
+                },
+                "GLOBAL_SYSTOLIC_RV_FUNCTION": {
+                    "NORMAL": "",
+                    "MILDLY_IMPAIRED": "",
+                    "MODERATELY_IMPAIRED": "",
+                    "SEVERELY_IMPAIRED": ""
+                },
+                "LV_VIABILITY": "",
+                "VALVULAR_DISEASE": ""
+            }
+        }
+    },
+    "MR_BRAIN_DEMENTIA": {
+        "FINDINGS": {
+            "SKULL_BASE": "No evidence of mass within the skull base (glomus jugulare), temporal bone, posterior fossa, or internal auditory canal.",
+            "MRA_HEAD": "No evidence of dural arteriovenous fistula, arteriovenous malformation, or aneurysm.",
+            "VENOUS_SYSTEM": {
+                "JUGULAR_BULB": "No evidence of high-riding jugular bulb or diverticulum.",
+                "JUGULAR_VENOUS_SYSTEM": "Right Left jugular venous system is dominant. No transverse sinus stenoses."
+            },
+            "INTRACRANIAL_HYPERTENSION": "None. No empty/partially empty sella or dilated optic nerve sheath complexes.",
+            "BRAIN_PARENCHYMA": {
+                "ACUTE_INFARCT_HEMORRHAGE": "No acute infarct or hemorrhage.",
+                "MASS_EFFECT_HERNIATION": "No mass effect or herniation.",
+                "CHIARI_1_MALFORMATION": "No evidence of Chiari 1 malformation.",
+                "WHITE_MATTER": {
+                    "SIGNAL_INTENSITIES": "Signal intensities are within normal limits for age. Mild Moderate Severe white matter chronic small vessel ischemic changes."
+                }
+            },
+            "VENTRICLES_EXTRA-AXIAL_SPACES": "No hydrocephalus or extra-axial fluid collections.",
+            "EXTRACRANIAL_STRUCTURES": "Sinuses and mastoids are clear.",
+            "OTHER_FINDINGS": "None."
+        },
+        "IMPRESSION": "No MRI/MRA etiology for pulsatile tinnitus."
+    },
+    "CT_STROKE_WITH_ANGIOGRAPHY_AND_PERFUSION": {
+        "FINDINGS": {
+            "CT_HEAD": {
+                "BRAIN_PARENCHYMA": {
+                    "ACUTE_HEMORRHAGE": "No acute hemorrhage.",
+                    "MASS_EFFECT_HERNIATION": "No mass effect or herniation.",
+                    "GRAY_WHITE_DIFFERENTIATION": "Gray-white differentiation is maintained.",
+                    "WHITE_MATTER": "White matter is within normal limits for age. White matter chronic small vessel ischemic changes."
+                },
+                "VENTRICLES_EXTRA-AXIAL_SPACES": "No hydrocephalus or extra-axial fluid collections.",
+                "EXTRACRANIAL_STRUCTURES": "Normal bones and soft tissues. Visualized paranasal sinuses and mastoids are clear."
+            },
+            "CT_PERFUSION": {
+                "INFARCT_CORE": "cc in the [] territory.",
+                "TISSUE_AT_RISK": "[] cc.",
+                "MISMATCH_RATIO": "[]"
+            },
+            "CTA_HEAD": "No occlusion or hemodynamically significant stenosis. No aneurysm.",
+            "CTA_NECK_GREAT_VESSELS": "Visualized segments are patent.",
+            "RIGHT_ICA": {
+                "STENOSIS_DISSECTION": "Normal. No stenosis or dissection. [Less than 50%, 50-69%, 70-99%, Occluded] by NASCET criteria at the carotid bifurcation with [<plaque-calcified and soft calcified soft] plaque. Dissection [<describe>]"
+            },
+            "LEFT_ICA": {
+                "STENOSIS_DISSECTION": "Normal. No stenosis or dissection. [Less than 50%, 50-69%, 170-99%, Occluded] by NASCET criteria at the carotid bifurcation with [<plaque>calcified and soft calcified soft] plaque. Dissection [<describe>]"
+            },
+            "VERTEBRAL_ARTERIES": {
+                "EXTRACRANIAL_SEGMENTS": "Patent extracranial segments.",
+                "DISSECTION": "No dissection."
+            },
+            "OTHER": "Visualized lung apices are clear. No neck mass or suspicious lymph nodes. Bones demonstrate no significant abnormality."
+        },
+        "IMPRESSION": [
+            "No acute infarct or hemorrhage.",
+            "Normal CT perfusion.",
+            "Normal CTA head and neck"
+        ]
+    },
+    "MR_LUMBAR_SPINE_LOW_BACK_PAIN": {
+        "FINDINGS": {
+            "NUMBERING": "Last fully formed disc space is designated L5-S1.",
+            "SPINAL_CORD": {
+                "CONUS": "Normal conus.",
+                "CONUS_TERMINATION_LEVEL": "Conus terminates at the [T12-L1] level."
+            },
+            "DISCS": "Normal. Multilevel disc desiccation.",
+            "BONES": {
+                "VERTEBRAL_BODY_HEIGHT_ALIGNMENT": "Vertebral body height and alignment are normal.",
+                "MARROW_SIGNAL": "Marrow signal is within normal limits.",
+                "VERTEBRAL_ABNORMALITIES": "No vertebral abnormalities or structural disorders."
+            },
+            "SOFT_TISSUES": "Normal.",
+            "T12-L1": "No canal or foraminal stenosis.",
+            "L1-L2": "No canal or foraminal stenosis.",
+            "L2-L3": "No canal or foraminal stenosis.",
+            "L3-L4": "No canal or foraminal stenosis.",
+            "L4-L5": "No canal or foraminal stenosis.",
+            "L5-S1": "No canal or foraminal stenosis.",
+            "OTHER": "None"
+        },
+        "IMPRESSION": "Normal MRI of the lumbar spine."
+    },
+    "MR_CERVICAL_SPINE_RADICULOPATHY": {
+        "FINDINGS": {
+            "SPINAL_CORD": "Normal.",
+            "DISCS": "Normal. Multilevel disc desiccation.",
+            "BONES": {
+                "VERTEBRAL_BODY_HEIGHT_ALIGNMENT": "Vertebral body height and alignment are normal.",
+                "MARROW_SIGNAL": "Marrow signal is within normal limits.",
+                "VERTEBRAL_ABNORMALITIES": "No vertebral abnormalities or structural disorders."
+            },
+            "SOFT_TISSUES": "Normal.",
+            "C2-C3": "No canal or foraminal stenosis.",
+            "C3-C4": "No canal or foraminal stenosis.",
+            "C4-C5": "No canal or foraminal stenosis.",
+            "C5-C6": "No canal or foraminal stenosis.",
+            "C6-C7": "No canal or foraminal stenosis.",
+            "C7-T1": "No canal or foraminal stenosis.",
+            "OTHER": "Visualized posterior fossa within normal limits."
+        },
+        "IMPRESSION": "Normal MRI of the cervical spine."
+    },
+    "MR_ADULT_BRAIN": {
+        "HISTORY": "[<AgeGender>], [<history>]",
+        "TECHNIQUE": "MR images of the brain were acquired without intravenous contrast.",
+        "COMPARISON": "[<PriorExam Date> None available.]",
+        "FINDINGS": {
+            "BRAIN_PARENCHYMA": {
+                "ACUTE_INFARCT_HEMORRHAGE": "No acute infarct or hemorrhage.",
+                "MASS_EFFECT_HERNIATION": "No mass effect or herniation.",
+                "WHITE_MATTER": {
+                    "SIGNAL_INTENSITIES": "Signal intensities are within normal limits for age.",
+                    "WHITE_MATTER_CHRONIC_SMALL_VESSEL_ISCHEMIC_CHANGES": "[<white matter severity>Mild Moderate|Severe] white matter chronic small vessel ischemic changes."
+                }
+            },
+            "VENTRICLES_EXTRA-AXIAL_SPACES": "No hydrocephalus or extra-axial fluid collections.",
+            "FLOW_VOIDS": "Intact.[Not well assessed.]",
+            "EXTRACRANIAL_STRUCTURES": "Visualized structures are normal."
+        },
+        "IMPRESSION": "Normal noncontrast MRI brain."
+    },
+    "MR_BRAIN_STROKE_OR_TIA": {
+        "HISTORY": "[<AgeGender>], [<history>]",
+        "TECHNIQUE": "MR images of the brain were acquired without intravenous contrast.",
+        "COMPARISON": "[<PriorExamDate>[None available.]",
+        "FINDINGS": {
+            "BRAIN_PARENCHYMA": {
+                "ACUTE_INFARCT_HEMORRHAGE": "No acute infarct or hemorrhage.",
+                "MASS_EFFECT_HERNIATION": "No mass effect or herniation.",
+                "WHITE_MATTER": {
+                    "SIGNAL_INTENSITIES": "Signal intensities are within normal limits for age.|[<white matter severity>Mild Moderate|Severe] white matter chronic small vessel ischemic changes."
+                }
+            },
+            "VENTRICLES_EXTRA-AXIAL_SPACES": "No hydrocephalus or extra-axial fluid collections.",
+            "FLOW_VOIDS": "Intact. Not well assessed.",
+            "EXTRACRANIAL_STRUCTURES": "Visualized structures are normal.",
+            "MRA_HEAD": {
+                "ANEURYSM": "No aneurysm.",
+                "OCCLUSION_STENOSIS": "No occlusion or hemodynamically significant stenosis."
+            },
+            "MRA_NECK_GREAT_VESSELS": "(Visualized segments are patent.)",
+            "RIGHT_ICA": {
+                "STENOSIS": "[<% stenosis>Less than 50% | 50-69% 170-99%] stenosis Occluded] by NASCET criteria at the carotid bifurcation.",
+                "NO_STENOSIS": "No stenosis"
+            },
+            "LEFT_ICA": {
+                "STENOSIS": "[<% stenosis>Less than 50% 150-69% 170-99%] stenosis Occluded] by NASCET criteria at the carotid bifurcation.",
+                "NO_STENOSIS": "No stenosis"
+            },
+            "VERTEBRAL_ARTERIES": "Patent extracranial segments."
+        },
+        "IMPRESSION": [
+            "Normal noncontrast MRI brain.",
+            "Normal MRA head.",
+            "Normal MRA neck."
+        ]
+    },
+    "MR_BRAIN_HEADACHE": {
+        "HISTORY": "<AgeGender>, headache.",
+        "TECHNIQUE": "MR images of the brain were acquired without intravenous contrast.",
+        "COMPARISON": "<PriorExam Date> None available.",
+        "FINDINGS": {
+            "BRAIN_PARENCHYMA": {
+                "ACUTE_INFARCT_HEMORRHAGE": "No acute infarct or hemorrhage.",
+                "MASS_EFFECT_HERNIATION": "No mass effect or herniation.",
+                "WHITE_MATTER": {
+                    "SIGNAL_INTENSITIES": "Signal intensities are within normal limits for age. Multiple nodular T2 hyperintense foci within the subcortical white matter, which can be associated with migraines.",
+                    "SEVERITY": "Mild Moderate Severe white matter chronic small vessel ischemic changes."
+                },
+                "HEADACHE": "No cerebellar tonsillar ectopia. No brainstem sag or other secondary signs of intracranial hypotension. No empty sella or other secondary signs of elevated intracranial pressure."
+            },
+            "VENTRICLES_EXTRA-AXIAL_SPACES": "No hydrocephalus or extra-axial fluid collections.",
+            "FLOW_VOIDS": "Intact. [Not well assessed.]",
+            "SINUSES_MASTOIDS": "Clear.",
+            "OTHER_EXTRACRANIAL_STRUCTURES": "Normal."
+        },
+        "IMPRESSION": "Normal MRI of the brain. No findings to account for headaches."
+    },
+    "MR_BRAIN_ADULT_EPILEPSY": {
+        "HISTORY": "[<AgeGender>], [<history>seizure.]",
+        "TECHNIQUE": "MR images of the brain were acquired without intravenous contrast.",
+        "COMPARISON": "[<PriorExam Date>None available]",
+        "FINDINGS": {
+            "MASS": "None.",
+            "INFARCT_OR_HEMORRHAGE": "None.",
+            "REMOTE_INJURY": "[<describe focal gliosis and if it corresponds to patient's seizure symptoms>None.]",
+            "VASCULAR_LESION": "No cavernous malformation or arteriovenous malformation.",
+            "HIPPOCAMPI": "No evidence of mesial temporal sclerosis.",
+            "CORTEX": {
+                "HETEROTOPIA_FOCAL_CORTICAL_DYSPLASIA": "No heterotopia or focal cortical dysplasia.",
+                "ENCEPHALITIS_POST-ICTAL_CHANGE": "No signs of encephalitis or post-ictal change."
+            },
+            "OTHER": "None."
+        },
+        "IMPRESSION": "[Normal MRI brain.]"
+    },
+    "MR_PARANASAL_SINUSES": {
+        "HISTORY": "<AgeGender>, <history> with sinus pain. *[evaluate sinus mass.]",
+        "TECHNIQUE": "MR images of the paranasal sinuses were acquired without and with [<constrast dose>] mL Gadavist intravenous contrast.",
+        "COMPARISON": "[<PriorExam Date>None available]",
+        "FINDINGS": {
+            "PARANASAL_SINUSES_NASAL_CAVITY": "Clear.",
+            "PERINEURAL_ENHANCEMENT": "None.",
+            "CAVERNOUS_SINUSES": "Normal.",
+            "SKULL_BASE": "Normal marrow signal.",
+            "SOFT_TISSUES_INFRATEMPORAL_FOSSA": "Normal.",
+            "OTHER": "Limited images of the visualized brain and orbits are normal. No abnormal enhancement."
+        },
+        "IMPRESSION": "[Normal MRI of the paranasal sinuses.]"
+    },
+    "CT_HEAD_STROKE": {
+        "HISTORY": "[<AgeGender>], [<history>headache. stroke symptoms. trauma. altered consciousness.|followup bleed.]",
+        "TECHNIQUE": "CT images of the head were acquired without intravenous contrast.",
+        "DLP": "[] mGy-cm",
+        "COMPARISON": "[<PriorExamDate>None available]",
+        "FINDINGS": {
+            "BRAIN_PARENCHYMA": {
+                "ACUTE_HEMORRHAGE_MASS_EFFECT_HERNIATION": "No acute hemorrhage. No mass effect or herniation.",
+                "GRAY_WHITE_DIFFERENTIATION": "Gray- white differentiation is maintained.",
+                "WHITE_MATTER": "White matter is within normal limits for age. White matter chronic small vessel ischemic changes."
+            },
+            "VENTRICLES_EXTRA-AXIAL_SPACES": "No hydrocephalus or extra-axial fluid collections.",
+            "EXTRACRANIAL_STRUCTURES": "Normal bones and soft tissues. Visualized paranasal sinuses and mastoids are clear."
+        },
+        "IMPRESSION": "[Normal noncontrast CT head.]"
+    },
+    "CT_SINUS": {
+        "HISTORY": "[<AgeGender>], [<history>congestion.[facial pain.]",
+        "TECHNIQUE": "CT images of the sinuses were acquired without IV contrast.",
+        "CTDI": "[] mGy",
+        "DLP": "[] mGy-cm",
+        "COMPARISON": "[<PriorExamDate>None available]",
+        "FINDINGS": {
+            "SPHENOID_AND_POSTERIOR_ETHMOID_SINUSES": "Clear bilaterally.",
+            "SPHENOETHMOIDAL_RECESS": "Clear bilaterally.",
+            "FRONTAL,_ANTERIOR_ETHMOID,_AND_MAXILLARY_SINUSES": "Clear bilaterally.",
+            "MAXILLARY_OSTIUM": "Clear bilaterally.",
+            "NASAL_CAVITY": "[Clear.] [No nasal spur or deviation.|Nasal septal spur/deviation to the [left[right].",
+            "OTHER": "[None.]"
+        },
+        "IMPRESSION": "[Normal CT sinus.]"
+    },
+    "CT_ANGIOGRAPHY_HEAD_AND_NECK": {
+        "HISTORY": "[<AgeGender>], [<history>stroke.]",
+        "TECHNIQUE": "CT angiogram images of the head and neck were acquired with [<contrast dose>] mL. Omnipaque 350 intravenous contrast. Multiplanar reformations were obtained.",
+        "CTDI": "[] mGy",
+        "DLP": "[] mGy-cm",
+        "COMPARISON": "[<PriorExam Date>None available]",
+        "FINDINGS": {
+            "CTA_HEAD": "[No occlusion or hemodynamically significant stenosis.] [No aneurysm.]",
+            "CTA_NECK": {
+                "GREAT_VESSELS": "[Visualized segments are patent.]",
+                "RIGHT_ICA": "[Normal. No stenosis or dissection. [<right stenosis>Less than 50% Approximately [<50-99% stenosis- give % stenosis as measured on series [], image |Occluded] by NASCET criteria at the carotid bifurcation with [calcified and soft|calcified soft] plaque. Dissection [<describe>]]",
+                "LEFT_ICA": "[Normal. No stenosis or dissection.] [<left stenosis>Less than 50% Approximately [<50-99% stenosis- give % stenosis as measured on series [], image [Occluded] by NASCET criteria at the carotid bifurcation with [calcified and soft calcified soft] plaque. Dissection [<describe>]]",
+                "VERTEBRAL_ARTERIES": "[Patent extracranial segments.] [No dissection.]",
+                "OTHER": "[Visualized lung apices are clear. No neck mass or suspicious lymph nodes.] [Bones demonstrate no significant abnormality.]"
+            }
+        },
+        "IMPRESSION": {
+            "1": "[Normal CTA head.]",
+            "2": "[Normal CTA neck.]"
+        }
+    },
+    "CT_PANKREATITIS": {
+        "PROCEDURE_INFORMATION": {
+            "ORAL_CONTRAST_PROTOCOL": [
+                "Water used as oral neutral contrast",
+                "Positive oral contrast given."
+            ],
+            "IV_CONTRAST_GIVEN": [
+                "IV contrast given at standard rate of administration.",
+                "IV contrast was not given."
+            ],
+            "MULTIPHASE_SCAN": [
+                "Multiphase scan performed and sections acquired at pancreatic phase and portal venous phase.",
+                "Pancreatic phase scan not available. Portal phase scan performed.",
+                "Delayed images not available.",
+                "Delayed images available."
+            ]
+        },
+        "CLINICAL_INFORMATION": {
+            "SERUM_AMYLASE_LIPASE_LEVELS": [
+                "Not available",
+                "Significantly raised suggesting acute pancreatitis",
+                "Normal",
+                "Mildly raised"
+            ],
+            "CHARACTERISTIC_CLINICAL_SYMPTOMS": [
+                "Present",
+                "Not present"
+            ],
+            "SIGNIFICANT_HISTORY": [
+                "None",
+                "History of cholelithiasis is noted",
+                "Ultrasound done previously has suggested likelihood of acute pancreatitis",
+                "Family history of acute pancreatitis is noted",
+                "Patient is alcoholic",
+                "Patient is non-alcoholic",
+                "Past history of acute pancreatitis noted"
+            ]
+        },
+        "COMPARISON": {
+            "COMPARISON_AVAILABLE": [
+                "Comparison not available",
+                "Scan compared with previous study"
+            ],
+            "PREVIOUS_SCAN_DATE": null
+        },
+        "FINDINGS": {
+            "PANCREAS_PERIPANCREATIC_REGION": {
+                "NORMAL_APPEARANCE": null,
+                "PANCREATIC_DUCT_NOT_DILATED": null,
+                "PANCREATIC_DUCT_DILATED": null,
+                "NO_PANCREATIC_CALCIFICATIONS_NOTED": null,
+                "PANCREATIC_CALCIFICATIONS_NOTED": null
+            },
+            "CTSI_BALTHAZAR_SCORE": [
+                "Balthazar score 0 (normal pancreas)",
+                "Balthazar score 1 (diffuse enlargement of pancreas)",
+                "Balthazar score 2 (inflammatory changes in the pancreatic and peripancreatic fat)",
+                "Balthazar score 3 (single ill-defined single peripancreatic fluid collection)",
+                "Balthazar score 4 (two or more poorly defined peripancreatic fluid collections)"
+            ],
+            "CTSI_PANCREATIC_NECROSIS_SCORE": [
+                "Necrosis score 0 (no pancreatic necrosis noted)",
+                "Necrosis score 2 (necrosis is noted involving approximately 30% of pancreatic parenchyma)",
+                "Necrosis score 4 (necrosis is noted involving approximately 30-50% pancreatic parenchyma)",
+                "Necrosis score 6 (necrosis is noted involving more than 50% of pancreatic tissue)"
+            ],
+            "TOTAL_CTSI": "Thus the total CTSI is",
+            "DESCRIBED_COLLECTIONS": [
+                "No collections are however noted in the peritoneal cavity",
+                "Multiple collections are noted",
+                "A collection is noted"
+            ],
+            "DESCRIBE_COLLECTIONS": null,
+            "EXTENT_OF_INFLAMMATION": [
+                "Peripancreatic inflammation noted in the form of peripancreatic stranding",
+                "Peripancreatic inflammation is noted with peripancreatic collections as described above",
+                "No peripancreatic inflammation is noted",
+                "Inflammation noted in the Gerota's fascia on left side",
+                "Inflammation noted in Gerota's fascia on right side",
+                "Inflammation noted in the right pericolic gutter"
+            ]
+        }
+    },
+    "XRAY_WRIST": {
+        "SIDE": "",
+        "NUMBER_OF_VIEWS": "",
+        "CLINICAL_INFORMATION": "",
+        "COMPARISON": "",
+        "FINDINGS": {
+            "BONES": "",
+            "JOINTS": "",
+            "SOFT_TISSUES": ""
+        },
+        "IMPRESSION": ""
+    },
+    "XRAY_PELIVS": {
+        "CLINICAL_INFORMATION": "",
+        "COMPARISON": "None.",
+        "FINDINGS": {
+            "SACRUM_AND_SACROILIAC_JOINTS": "intact",
+            "INNOMINATE_BONES": "normal",
+            "HIPS": "well preserved and normal"
+        },
+        "IMPRESSION": "Normal pelvis, hips, and sacroiliac joints."
+    },
+    "XRAY_SPINE": {
+        "VIEWS": null,
+        "CLINICAL_INFORMATION": "",
+        "COMPARISON": "None.",
+        "FINDINGS": {
+            "NUMBER_OF_LUMBAR-TYPE_VERTEBRAE": null,
+            "VERTEBRAL_BODIES": "Normal in height. No vertebral fracture.",
+            "DISK_SPACES": "Normal. ",
+            "SOFT_TISSUES": "Normal. ",
+            "ALIGNMENT": "Normal. No scoliosis or kyphosis"
+        },
+        "IMPRESSION": "Normal examination. "
+    },
+    "XRAY_SHOULDER": {
+        "PROCEDURE": "",
+        "LATERALITY": "",
+        "NUMBER_OF_VIEWS": "",
+        "CLINICAL_INFORMATION": "",
+        "COMPARISON": "",
+        "FINDINGS": {
+            "BONES": "",
+            "JOINTS": "",
+            "SOFT_TISSUE": ""
+        },
+        "IMPRESSION": ""
+    },
+    "CT_SPINE": {
+        "FINDINGS": {
+            "NUMBERING": "Last fully formed disc space is designated [C7-T1, T12-L1, or L5-S1].",
+            "SPINAL_CORD": {
+                "CONUS": "Normal conus.",
+                "CONUS_TERMINATION_LEVEL": "Conus terminates at the [T12-L1] level."
+            },
+            "DISCS": "Normal. Note: CT is less sensitive for detecting disc herniation and myelopathy.",
+            "BONES": {
+                "VERTEBRAL_BODY_HEIGHT_ALIGNMENT": "Vertebral body height and alignment are normal.",
+                "MARROW_SIGNAL": "Bone density is within normal limits.",
+                "BONY_STENOSIS": "No significant bony stenosis.",
+                "FRACTURES": "No acute fractures identified.",
+                "ARTHRITIC_CHANGES": "Mild/moderate/severe degenerative changes."
+            },
+            "SOFT_TISSUES": "Normal.",
+            "FACET_JOINTS": "Mild/moderate/severe degenerative changes in the facet joints.",
+            "C2-C3": "No significant bony canal or foraminal stenosis.",
+            "C3-C4": "No significant bony canal or foraminal stenosis.",
+            "C4-C5": "No significant bony canal or foraminal stenosis.",
+            "C5-C6": "No significant bony canal or foraminal stenosis.",
+            "C6-C7": "No significant bony canal or foraminal stenosis.",
+            "C7-T1": "No significant bony canal or foraminal stenosis.",
+            "T1-T2": "No significant bony canal or foraminal stenosis.",
+            "T2-T3": "No significant bony canal or foraminal stenosis.",
+            "T3-T4": "No significant bony canal or foraminal stenosis.",
+            "T4-T5": "No significant bony canal or foraminal stenosis.",
+            "T5-T6": "No significant bony canal or foraminal stenosis.",
+            "T6-T7": "No significant bony canal or foraminal stenosis.",
+            "T7-T8": "No significant bony canal or foraminal stenosis.",
+            "T8-T9": "No significant bony canal or foraminal stenosis.",
+            "T9-T10": "No significant bony canal or foraminal stenosis.",
+            "T10-T11": "No significant bony canal or foraminal stenosis.",
+            "T11-T12": "No significant bony canal or foraminal stenosis.",
+            "T12-L1": "No significant bony canal or foraminal stenosis.",
+            "L1-L2": "No significant bony canal or foraminal stenosis.",
+            "L2-L3": "No significant bony canal or foraminal stenosis.",
+            "L3-L4": "No significant bony canal or foraminal stenosis.",
+            "L4-L5": "No significant bony canal or foraminal stenosis.",
+            "L5-S1": "No significant bony canal or foraminal stenosis.",
+            "OTHER": "None"
+        },
+        "IMPRESSION": "Normal CT of the [cervical, thoracic, or lumbar] spine. Note: CT is less sensitive for detecting disc herniation and myelopathy. Consider MRI if clinically indicated.",
+        "NOTE": "Remove any vertebral levels not shown in the specific CT scan (e.g., cervical levels in a lumbarscan)."
+    },
+    "CT_HEAD_WITH_CONTRAST": {
+        "HISTORY": [],
+        "TECHNIQUE": "CT images of the head were acquired with mL [ ] intravenous contrast.",
+        "CTDI": "[ ] mGy",
+        "DLP": "[ ] mGy*cm",
+        "COMPARISON": "Compared to prior study from [ ].",
+        "FINDINGS": {
+            "BRAIN_PARENCHYMA": [
+                "No acute hemorrhage. No mass effect or herniation. Gray-white differentiation is maintained.",
+                "White matter is within normal limits for age.",
+                "White matter chronic small vessel ischemic changes"
+            ],
+            "VENTRICLES_EXTRA_AXIAL_SPACES": "No hydrocephalus or extra-axial fluid collections.",
+            "EXTRACRANIAL_STRUCTURES": "Normal bones and soft tissues. Visualized paranasal sinuses and mastoids are clear."
+        },
+        "IMPRESSION": "Normal CT head."
+    },
+    "CT_HEAD_WITHOUT_CONTRAST": {
+        "HISTORY": [],
+        "TECHNIQUE": "CT images of the head were acquired without intravenous contrast.",
+        "CTDI": "[ ] mGy",
+        "DLP": "[ ] mGy*cm",
+        "COMPARISON": "Compared to prior study from [ ].",
+        "FINDINGS": {
+            "BRAIN_PARENCHYMA": [
+                "No acute hemorrhage. No mass effect or herniation. Gray-white differentiation is maintained. No abnormal enhancement.",
+                "White matter is within normal limits for age.",
+                "White matter chronic small vessel ischemic changes"
+            ],
+            "VENTRICLES_EXTRA_AXIAL_SPACES": "No hydrocephalus or extra-axial fluid collections.",
+            "EXTRACRANIAL_STRUCTURES": "Normal bones and soft tissues. Visualized paranasal sinuses and mastoids are clear."
+        },
+        "IMPRESSION": "Normal CT head."
+    },
+    "CT_NECK": {
+        "HISTORY": [],
+        "TECHNIQUE": "CT images of the neck were acquired with mL [ ] intravenous contrast | CT images of the neck withou contras",
+        "CTDI": "[ ] mGy",
+        "DLP": "[ ] mGy*cm",
+        "COMPARISON": "Compared to prior study from [ ].",
+        "FINDINGS": {
+            "PHARYNGEAL_MUCOSA": "Normal nasopharynx, oropharynx and hypopharynx.",
+            "ORAL_CAVITY": "Normal including tongue and floor of mouth.",
+            "LARYNX": "Normal supraglottic, glottic and subglottic larynx.",
+            "LYMPH_NODES": "No suspicious lymph nodes.",
+            "SALIVARY_GLANDS": "Normal parotid, submandibular and sublingual glands.",
+            "THYROID_SPACE": "Normal.",
+            "VESSELS_CAROTID_SPACE": "Normal.",
+            "BONES": "No significant abnormality.",
+            "OTHER": "Visualized lung apices are clear."
+        },
+        "IMPRESSION": ""
+    },
+    "MR_CARDIAC_FUNCTION_AND_VIABILITY": {
+        "FUNCTIONANDVIABILITY": {
+            "CLINICALHISTORY": "",
+            "COMPARISON": {
+                "PRIORSTUDY": "[ ]"
+            },
+            "FINDINGS": {
+                "LEFTVENTRICULARMEASUREMENTS": {
+                    "ENDDIASTOLICDIAMETER": {
+                        "VALUE": "mm",
+                        "NORMAL": {
+                            "MIN": 36,
+                            "MAX": 56
+                        }
+                    },
+                    "EJECTIONFRACTION": {
+                        "VALUE": "%",
+                        "NORMAL": {
+                            "MALE": {
+                                "MIN": 56,
+                                "MAX": 78
+                            },
+                            "FEMALE": {
+                                "MIN": 56,
+                                "MAX": 78
+                            }
+                        }
+                    },
+                    "STROKEVOLUME": "ml",
+                    "ENDDIASTOLICVOLUME": {
+                        "VALUE": "mL",
+                        "NORMAL": {
+                            "MALE": {
+                                "MIN": 77,
+                                "MAX": 195
+                            },
+                            "FEMALE": {
+                                "MIN": 52,
+                                "MAX": 141
+                            }
+                        }
+                    },
+                    "INDEXEDENDDIASTOLICVOLUME": "mL/m2",
+                    "ENDSYSTOLICVOLUME": {
+                        "VALUE": "mL",
+                        "NORMAL": {
+                            "MALE": {
+                                "MIN": 19,
+                                "MAX": 72
+                            },
+                            "FEMALE": {
+                                "MIN": 13,
+                                "MAX": 51
+                            }
+                        }
+                    },
+                    "INDEXEDENDSYSTOLICVOLUME": "mL/m2",
+                    "CARDIACOUTPUT": {
+                        "VALUE": "L/min",
+                        "NORMAL": {
+                            "MALE": {
+                                "MIN": 2.82,
+                                "MAX": 8.82
+                            },
+                            "FEMALE": {
+                                "MIN": 2.7,
+                                "MAX": 6.0
+                            }
+                        }
+                    },
+                    "CARDIACINDEX": "L/min/m2",
+                    "INDEXVALUES": {
+                        "NORMALIZEDTO": "Body Surface Area (BSA)",
+                        "BSA": "m2"
+                    }
+                },
+                "VALVEDISEASE": {
+                    "AORTICVALVE": {
+                        "AORTICFORWARDVOLUME": "ml",
+                        "AORTICREGURGITANTVOLUME": "ml",
+                        "AORTICVALVEAREA": {
+                            "VALUE": "cm2",
+                            "SEVERITY": {
+                                "SEVERE": "< 1.0 cm2",
+                                "MODERATE": "1.0-1.5 cm2",
+                                "MILD": "1.5-2.0 cm2",
+                                "NORMAL": "> 2.0 cm2"
+                            }
+                        }
+                    },
+                    "MITRALVALVE": {
+                        "MITRALREGURGITANTVOLUME": "mL",
+                        "MITRALREGURGITANTFRACTION": "%mL",
+                        "ASCENDINGAORTADIAMETER": "mm",
+                        "LEFTATRIALDIMENSIONS": "mm (AP x 4-chamber)",
+                        "LEFTATRIALAREA": "cm2"
+                    }
+                },
+                "LEFTVENTRICLEREGIONALWALLMOTION": {
+                    "SCORING": {
+                        "NORMOKINETIC": 0,
+                        "HYPOKINETIC": 1,
+                        "AKINETIC": 2,
+                        "DYSKINETIC": 3
+                    },
+                    "BASE": {
+                        "ANTERIOR": {},
+                        "ANTEROLATERAL": {},
+                        "INFEROLATERAL": {},
+                        "INFERIOR": {},
+                        "INFERIOSEPTAL": {},
+                        "ANTEROSEPTAL": {}
+                    },
+                    "MID": {},
+                    "ANTERIOR": {},
+                    "ANTEROLATERAL": {},
+                    "INFEROLATERAL": {},
+                    "INFERIOR": {},
+                    "INFERIOSEPTAL": {},
+                    "ANTEROSEPTAL": {}
+                },
+                "APEX": {
+                    "ANTERIOR": {},
+                    "LATERAL": {},
+                    "INFERIOR": {},
+                    "SEPTUM": {},
+                    "TRUEAPEX": {}
+                }
+            },
+            "LEFTVENTRICLEMYOCARDIALENHANCEMENT": {
+                "SCORING": {
+                    "NONE": 0,
+                    "1-25%": 1,
+                    "26-50%": 2,
+                    "51-75%": 3,
+                    "76-100%": 4
+                },
+                "BASE": {
+                    "ANTERIOR": {},
+                    "ANTEROLATERAL": {},
+                    "INFEROLATERAL": {},
+                    "INFERIOR": {},
+                    "INFERIOSEPTAL": {},
+                    "ANTEROSEPTAL": {}
+                },
+                "MID": {
+                    "ANTERIOR": {},
+                    "ANTEROLATERAL": {},
+                    "INFEROLATERAL": {},
+                    "INFERIOR": {},
+                    "INFERIOSEPTAL": {},
+                    "ANTEROSEPTAL": {}
+                },
+                "APEX": {
+                    "ANTERIOR": {},
+                    "LATERAL": {},
+                    "INFERIOR": {},
+                    "SEPTUM": {},
+                    "TRUEAPEX": {}
+                }
+            },
+            "NONCARDIACFINDINGS": {
+                "SCORING": {
+                    "NONE": 0,
+                    "1-25%": 1,
+                    "26-50%": 2,
+                    "51-75%": 3,
+                    "76-100%": 4
+                }
+            }
+        },
+        "IMPRESSION": {
+            "GLOBALSYSTOLICLVFUNCTION": {
+                "NORMAL": {},
+                "MILDLYIMPAIRED": {},
+                "MODERATELYIMPAIRED": {},
+                "SEVERELYIMPAIRED": {}
+            },
+            "GLOBALSYSTOLICRVFUNCTION": {
+                "NORMAL": {},
+                "MILDLYIMPAIRED": {},
+                "MODERATELYIMPAIRED": {},
+                "SEVERELYIMPAIRED": {}
+            },
+            "LVVIABILITY": {
+                "NORMAL": {}
+            },
+            "VALVULARDISEASE": {
+                "ABSENT": {}
+            }
+        }
+    },
+    "MR_CARDIAC_HEART_FAILURE": {
+        "CARDIACMRI": "",
+        "CLINICALINFORMATION": "",
+        "COMPARISON": {
+            "PRIORSTUDYDATE": ""
+        },
+        "FINDINGS": {
+            "LEFTVENTRICULARMEASUREMENTS": {
+                "ENDDIASTOLICDIAMETER": {
+                    "VALUE": "",
+                    "UNIT": "mm",
+                    "NORMALRANGE": {
+                        "MALE": "36-56",
+                        "FEMALE": "36-56"
+                    }
+                },
+                "EJECTIONFRACTION": {
+                    "VALUE": "",
+                    "UNIT": "%",
+                    "NORMALRANGE": {
+                        "MALE": "56-78",
+                        "FEMALE": "56-78"
+                    }
+                },
+                "STROKEVOLUME": {
+                    "VALUE": "",
+                    "UNIT": "ml"
+                },
+                "ENDDIASTOLICVOLUME": {
+                    "VALUE": "",
+                    "UNIT": "mL",
+                    "NORMALRANGE": {
+                        "MALE": "77-195",
+                        "FEMALE": "52-141"
+                    }
+                },
+                "INDEXEDENDDIASTOLICVOLUME": {
+                    "VALUE": "",
+                    "UNIT": "mL/m2"
+                },
+                "ENDSYSTOLICVOLUME": {
+                    "VALUE": "",
+                    "UNIT": "mL",
+                    "NORMALRANGE": {
+                        "MALE": "19-72",
+                        "FEMALE": "13-51"
+                    }
+                },
+                "INDEXEDENDSYSTOLICVOLUME": {
+                    "VALUE": "",
+                    "UNIT": "mL/m2"
+                },
+                "CARDIACOUTPUT": {
+                    "VALUE": "",
+                    "UNIT": "L/min",
+                    "NORMALRANGE": {
+                        "MALE": "2.82-8.82",
+                        "FEMALE": "2.7-6.0"
+                    }
+                },
+                "CARDIACINDEX": {
+                    "VALUE": "",
+                    "UNIT": "L/min/m2"
+                },
+                "BODYSURFACEAREA": {
+                    "VALUE": "",
+                    "UNIT": "m2"
+                }
+            },
+            "RIGHTVENTRICULARMEASUREMENTS": {
+                "ENDDIASTOLICDIAMETER": {
+                    "VALUE": "",
+                    "UNIT": "mm",
+                    "NORMALRANGE": {
+                        "MALE": "25-46",
+                        "FEMALE": "21-39"
+                    }
+                },
+                "EJECTIONFRACTION": {
+                    "VALUE": "",
+                    "UNIT": "%",
+                    "NORMALRANGE": {
+                        "MALE": "47-74",
+                        "FEMALE": "47-80"
+                    }
+                },
+                "STROKEVOLUME": {
+                    "VALUE": "",
+                    "UNIT": "mL",
+                    "NORMALRANGE": {
+                        "MALE": "52-138",
+                        "FEMALE": "35-98"
+                    }
+                },
+                "ENDDIASTOLICVOLUME": {
+                    "VALUE": "",
+                    "UNIT": "mL",
+                    "NORMALRANGE": {
+                        "MALE": "88-227",
+                        "FEMALE": "58-154"
+                    }
+                },
+                "INDEXEDENDDIASTOLICVOLUME": {
+                    "VALUE": "",
+                    "UNIT": "mL/m2"
+                },
+                "ENDSYSTOLICVOLUME": {
+                    "VALUE": "",
+                    "UNIT": "mL",
+                    "NORMALRANGE": {
+                        "MALE": "23-105",
+                        "FEMALE": "12-68"
+                    }
+                },
+                "INDEXEDENDSYSTOLICVOLUME": {
+                    "VALUE": "",
+                    "UNIT": "mL/m2"
+                },
+                "CARDIACOUTPUT": {
+                    "VALUE": "",
+                    "UNIT": "L/min",
+                    "NORMALRANGE": {
+                        "MALE": "2.8-8.82",
+                        "FEMALE": "2.7-6.0"
+                    }
+                },
+                "CARDIACINDEX": {
+                    "VALUE": "",
+                    "UNIT": "L/min/m2",
+                    "NORMALRANGE": {
+                        "MALE": "1.74-4.2",
+                        "FEMALE": "1.8-3.8"
+                    }
+                }
+            },
+            "VALVES": {
+                "AORTICVALVE": {
+                    "AORTICFORWARDVOLUME": {
+                        "VALUE": "",
+                        "UNIT": "mL"
+                    },
+                    "AORTICREGURGITANTVOLUME": {
+                        "VALUE": "",
+                        "UNIT": "mL"
+                    },
+                    "AORTICVALVEAREA": {
+                        "VALUE": "",
+                        "UNIT": "cm2",
+                        "SEVERITY": {
+                            "SEVERE": "< 1.0",
+                            "MODERATE": "1.0-1.5",
+                            "MILD": "1.5-2.0",
+                            "NORMAL": "> 2.0"
+                        }
+                    }
+                },
+                "MITRALVALVE": {
+                    "MITRALREGURGITANTVOLUME": {
+                        "VALUE": "",
+                        "UNIT": "mL"
+                    },
+                    "MITRALREGURGITANTFRACTION": {
+                        "VALUE": "",
+                        "UNIT": "%"
+                    }
+                },
+                "PULMONICVALVE": {
+                    "PULMONICFORWARDVOLUME": {
+                        "VALUE": "",
+                        "UNIT": "mL"
+                    },
+                    "PULMONICREGURGITANTVOLUME": {
+                        "VALUE": "",
+                        "UNIT": "mL"
+                    }
+                },
+                "TRICUSPIDVALVE": {}
+            },
+            "SHUNTINFORMATION": {
+                "QPQSRATIO": {
+                    "VALUE": ""
+                }
+            },
+            "OTHERFINDINGS": {}
+        },
+        "IMPRESSION": {
+            "GLOBALSYSTOLICLVFUNCTION": {
+                "NORMAL": "Normal",
+                "MILDLYIMPAIRED": "Mildly impaired",
+                "MODERATELYIMPAIRED": "Moderately impaired",
+                "SEVERELYIMPAIRED": "Severely impaired"
+            },
+            "GLOBALSYSTOLICRVFUNCTION": {
+                "NORMAL": "Normal",
+                "MILDLYIMPAIRED": "Mildly impaired",
+                "MODERATELYIMPAIRED": "Moderately impaired",
+                "SEVERELYIMPAIRED": "Severely impaired"
+            },
+            "INTRACARDIACSHUNT": {
+                "NONE": "None"
+            },
+            "VALVULARDISEASE": {
+                "ABSENT": "Absent"
+            }
+        },
+        "REFERENCE": "American Journal of Roentgenology. 2014;203: 1265-1271. 10.2214/AJR.14.12636"
+    },
+    "XRAY_CHEST": {
+        "INDICATION": "",
+        "COMPARISON": "Compared to prior study from [ ].",
+        "TECHNIQUE": "",
+        "FINDINGS": {
+            "ENLARGED_CARDIOMEDIASTINUM": "",
+            "CARDIOMEGALY": "",
+            "LUNG_LESION": "",
+            "LUNG_OPACITY": "",
+            "EDEMA": "",
+            "CONSOLIDATION": "",
+            "PNEUMONIA": "",
+            "ATELECTASIS": "",
+            "PNEUMOTHORAX": "",
+            "PLEURAL_EFFUSION": "",
+            "PLEURAL_OTHER": "",
+            "FRACTURE": "",
+            "SUPPORT_DEVICES": "",
+            "OVERLYING_SOFT_TISSUES": "",
+            "UPPER_ABDOMEN": ""
+        },
+        "IMPRESSION": ""
+    },
+    "CT_WHOLE_BODY": {
+        "CLINICAL_HISTORY": "",
+        "COMPARISON": "[None / Prior study from]",
+        "PROCEDURE_COMMENTS": "[CT of the chest, abdomen, and pelvis was performed with intravenous contrast. / CT of the chest, abdomen, and pelvis was performed with intravenous and oral contrast.]",
+        "FINDINGS": {
+            "HEAD_AND_NECK": {
+                "BRAIN_PARENCHYMA": "No acute hemorrhage. No mass effect or herniation. Gray-white differentiation is maintained.",
+                "VENTRICLES/EXTRA-AXIAL_SPACES": "No hydrocephalus or extra-axial fluid collections.",
+                "EXTRACRANIAL_STRUCTURES": "Normal bones and soft tissues. Visualized paranasal sinuses and mastoids are clear.",
+                "ORO-_AND_HYPOPHARYNX": "Normal.",
+                "THYROID_SPACE": "Normal.",
+                "VESSELS_AND_CAROTID_SPACE": "Normal.",
+                "LYMPH_NODES": "Normal."
+            },
+            "CHEST": {
+                "SUPPORT_DEVICES": "Normal.",
+                "LUNG_PARENCHYMA": "Normal.",
+                "TRACHEA_AND_CENTRAL_AIRWAYS": "Normal.",
+                "PERIPHERAL_BRONCHI": "Normal.",
+                "LYMPH_NODES": "Normal.",
+                "HEART/GREAT_VESSELS": "Normal.",
+                "PULMONARY_VASCULATURE": "Normal.",
+                "OTHER_MEDIASTINAL_STRUCTURES": "Normal.",
+                "PLEURA": "Normal.",
+                "BREAST_TISSUE": "Normal."
+            },
+            "ABDOMEN/PELVIS": {
+                "LIVER_AND_BILIARY_SYSTEM": "Normal.",
+                "SPLEEN": "Normal.",
+                "PANCREAS": "Normal.",
+                "ADRENAL_GLANDS": "Normal.",
+                "KIDNEYS,_URETERS,_AND_BLADDER": "Normal.",
+                "BOWEL": "Normal.",
+                "APPENDIX": "The appendix is identified and is normal / The appendix is not identified.",
+                "PERITONEAL_CAVITY": "No free fluid. / A small amount of nonspecific free fluid is present in the pelvis.",
+                "UTERUS_AND_OVARIES_(IF_PRESENT)": "Normal.",
+                "PROSTATE_AND_SEMINAL_GLANDS_(IF_PRESENT)": "Normal",
+                "VASCULATURE": "Normal.",
+                "LYMPH_NODES": "Normal."
+            },
+            "MUSCULOSKELETAL": {
+                "OSSEOUS_STRUCTURES": "Normal.",
+                "SOFT_TISSUES": "Normal."
+            }
+        },
+        "IMPRESSION": "[structured short summary of findings]"
+    },
+    "CT_HEAD_AND_NECK": {
+        "INDICATION": "",
+        "COMPARISON": "Compared to prior exam from __.",
+        "TECHNIQUE": "[CT of the head and neck was performed with intravenous contrast.]",
+        "FINDINGS": {
+            "BRAIN_PARENCHYMA": "No acute hemorrhage. No mass effect or herniation. Gray-white differentiation is maintained.",
+            "VENTRICLES/EXTRA-AXIAL_SPACES": "No hydrocephalus or extra-axial fluid collections.",
+            "EXTRACRANIAL_STRUCTURES": "Normal bones and soft tissues. Visualized paranasal sinuses and mastoids are clear.",
+            "ORO-_AND_HYPOPHARYNX": "Normal.",
+            "THYROID_SPACE": "Normal.",
+            "VESSELS_AND_CAROTID_SPACE": "Normal.",
+            "LYMPH_NODES": "Normal."
+        },
+        "IMPRESSION": "[structured short summary of findings]"
+    },
+    "CT_CHEST": {
+        "INDICATION": "",
+        "COMPARISON": "Compared to prior exam from __.",
+        "TECHNIQUE": "[CT of the chest was performed with intravenous contrast.]",
+        "FINDINGS": {
+            "SUPPORT_DEVICES": "Normal.",
+            "LUNG_PARENCHYMA": "Normal.",
+            "TRACHEA_AND_CENTRAL_AIRWAYS": "Normal.",
+            "PERIPHERAL_BRONCHI": "Normal.",
+            "LYMPH_NODES": "Normal.",
+            "HEART/GREAT_VESSELS": "Normal.",
+            "PULMONARY_VASCULATURE": "Normal.",
+            "OTHER_MEDIASTINAL_STRUCTURES": "Normal.",
+            "PLEURA": "Normal.",
+            "BREAST_TISSUE": "Normal."
+        },
+        "IMPRESSION": "[structured short summary of findings]"
+    },
+    "CT_ABDOMEN_AND_PELVIS": {
+        "INDICATION": "",
+        "COMPARISON": "Compared to prior exam from __.",
+        "TECHNIQUE": "[CT of the abdomen and pelvis was performed with intravenous contrast.]",
+        "FINDINGS": {
+            "LIVER_AND_BILIARY_SYSTEM": "Normal.",
+            "SPLEEN": "Normal.",
+            "PANCREAS": "Normal.",
+            "ADRENAL_GLANDS": "Normal.",
+            "KIDNEYS,_URETERS,_AND_BLADDER": "Normal.",
+            "BOWEL": "Normal.",
+            "APPENDIX": "The appendix is identified and is normal / The appendix is not identified.",
+            "PERITONEAL_CAVITY": "No free fluid. / A small amount of nonspecific free fluid is present in the pelvis.",
+            "UTERUS_AND_OVARIES_(IF_PRESENT)": "Normal.",
+            "PROSTATE_AND_SEMINAL_GLANDS_(IF_PRESENT)": "Normal",
+            "VASCULATURE": "Normal.",
+            "LYMPH_NODES": "Normal."
+        },
+        "IMPRESSION": "[structured short summary of findings]"
+    },
+    "CT_CHEST_AND_ABDOMEN": {
+        "INDICATION": "",
+        "COMPARISON": "Compared to prior exam from __.",
+        "TECHNIQUE": "[CT of the chest and abdomen was performed with intravenous contrast.]",
+        "FINDINGS": {
+            "CHEST": {
+                "SUPPORT_DEVICES": "Normal.",
+                "LUNG_PARENCHYMA": "Normal.",
+                "TRACHEA_AND_CENTRAL_AIRWAYS": "Normal.",
+                "PERIPHERAL_BRONCHI": "Normal.",
+                "LYMPH_NODES": "Normal.",
+                "HEART/GREAT_VESSELS": "Normal.",
+                "PULMONARY_VASCULATURE": "Normal.",
+                "OTHER_MEDIASTINAL_STRUCTURES": "Normal.",
+                "PLEURA": "Normal.",
+                "BREAST_TISSUE": "Normal."
+            },
+            "ABDOMEN": {
+                "LIVER_AND_BILIARY_SYSTEM": "Normal.",
+                "SPLEEN": "Normal.",
+                "PANCREAS": "Normal.",
+                "ADRENAL_GLANDS": "Normal.",
+                "KIDNEYS,_URETERS,_AND_BLADDER": "Normal.",
+                "BOWEL": "Normal.",
+                "APPENDIX": "The appendix is identified and is normal / The appendix is not identified.",
+                "PERITONEAL_CAVITY": "No free fluid. / A small amount of nonspecific free fluid is present in the pelvis.",
+                "UTERUS_AND_OVARIES_(IF_PRESENT)": "Normal.",
+                "PROSTATE_AND_SEMINAL_GLANDS_(IF_PRESENT)": "Normal",
+                "VASCULATURE": "Normal.",
+                "LYMPH_NODES": "Normal."
+            }
+        },
+        "IMPRESSION": "[structured short summary of findings]"
+    },
+    "MR_WHOLE_BODY": {
+        "INDICATION": "Cancer screening. High-risk individual (syndrome, etc)/asymptomatic individual of the general population",
+        "TECHNIQUE": "Whole-body MRI (vertex to feet/mid thighs, including proximal upper limbs only). Sequences: Whole-spine sagittal T1 W / T2 W STIR, axial TSE T2 W, axial GRE T1 Dixon, axial DW (b-values = 50 & 900 s/mm2 ). Reconstructions: in-line (Water-only and Fat-only images, ADC maps), off-line (relative fat fraction, MIP, MPR).",
+        "FINDINGS": {
+            "MRI_BONE": {
+                "SUSPICIOUS_BONE_LESIONS": "No.",
+                "SPINAL_CANAL_DIMENSIONS": "Within normal limits.",
+                "SACRAL_ROOT_CYSTS": "ONCO-RADS category 2.",
+                "VERTEBRAL_BODY_HEMANGIOMA/HEMANGIOMAS": "ONCO-RADS category 2."
+            },
+            "MRI_HEAD": {
+                "SUSPICIOUS_BRAIN_LESIONS": "No.",
+                "VENTRICULAR_SYSTEM": "Within normal limits.",
+                "MIDLINE_STRUCTURES": "Not displaced.",
+                "DIFFUSE_WHITE_MATTER_ALTERATIONS": "ONCO-RADS category 2.",
+                "MUCOSAL_THICKENING_OF_THE_PARANASAL_SINUSES": "ONCO-RADS category 2."
+            },
+            "MRI_NECK": {
+                "PHARYNGEAL_AND_LARYNGEAL_FINDINGS": "Within limits.",
+                "CERVICAL_LYMPH_NODES": "No enlarged.",
+                "THYROID_NODULE": "Non-suspicious (ONCO-RADS category 2)."
+            },
+            "MRI_CHEST": {
+                "SUSPICIOUS_LESIONS_IN_EITHER_LUNG": "No.",
+                "ENLARGED_MEDIASTINAL_LYMPH_NODES": "Not visible.",
+                "ENLARGED_SUPRA-/SUBCLAVICULAR_LYMPH_NODES": "Not visible.",
+                "THYMIC_HYPERPLASIA": "ONCO-RADS category 2."
+            },
+            "MRI_ABDOMEN": {
+                "LIVER": "Normal.",
+                "PANCREAS": "Normal.",
+                "SPLEEN": "Normal.",
+                "ADRENAL_GLANDS": "Normal.",
+                "KIDNEYS": "Normal.",
+                "LYMPH_NODES_IN_THE_ABDOMEN": "No enlarged.",
+                "CYSTS_IN_SEGMENTS_I-VIII_OF_THE_LIVER": "ONCO-RADS category 2.",
+                "HEMANGIOMAS_IN_SEGMENTS_I-VIII_OF_THE_LIVER": "ONCO-RADS category 2.",
+                "SIMPLE_KIDNEY_CYSTS": "ONCO-RADS category 2."
+            },
+            "MRI_PELVIS": {
+                "MASSES_IN_THE_PELVIS": "No.",
+                "FREE_FLUID_IN_THE_PELVIS": "No.",
+                "ENLARGED_PELVIC_LYMPH_NODES": "Not visible.",
+                "UTERINE_LEIOMYOMA": "ONCO-RADS category 2."
+            },
+            "MRI_LIMBS": {
+                "SUSPICIOUS_FINDINGS_IN_THE_PORTIONS_EXAMINED": "No."
+            }
+        },
+        "CONCLUSIONS_AND_MANAGEMENT": "No lesions suspicious of cancer were detected."
+    },
+    "MR_CERVICAL_CANCER_STAGING": {
+        "CLINICAL_INFORMATION/HISTORY": "[free text]",
+        "COMPARISON": "[free text]",
+        "TECHNIQUE": "Prior to and following the uneventful intravenous administration of contrast, T1 and T2 weighted images in multiple planes were obtained through the pelvis. Prior to contrast administration, diffusion-weighted images were obtained through the pelvis.",
+        "FINDINGS": {
+            "UTERUS": "Measures [ ] x [ ] x [ ] cm. [Describe other uterine findings, excluding the tumor.]",
+            "TUMOR_SITE": "Endocervical tumor/exophytic; arises from the anterior or the posterior lip or circumferential; involves the entire cervix.",
+            "TUMOR_SIZE": "3 dimensions: [2 cm x 2 cm x 5 cm]",
+            "UTERINE_INVASION": "[Absent/Present]. [Describe location, lower uterus, body, fundus].",
+            "PARAMETRAL_INVASION": "[Absent/Present -- OR -- describe how certain you are: suspicious for/possible/less likely/unlikely]. [Describe location].",
+            "VAGINAL_INVASION": "[None/Upper 2/3 of the vagina/Lower 1/3 of the vagina].",
+            "TUMOR_EXTENSION": "[None/Right or left pelvic side wall/Bladder/Rectum]. [Presence/Absence of ureteral dilatation].",
+            "ADDITIONAL_COMMENTS": "[Add any specific comments related to the tumor here if appropriate].",
+            "OVARIES": "The ovaries are [not visualized/visualized] and are [normal/abnormal] in appearance. [Right Ovary measures # x # x #cm and left ovary measures # x # x #cm.] [If abnormal describe.]",
+            "LYMPH_NODES": "There are [no/few/many] lymph nodes; [The largest pelvic lymph node is located (give location) and measures (give size).] [The largest para-aortic lymph node measures (give size)]. These lymph nodes are [likely/possibly/less likely to be/unlikely to be] metastatic in nature.",
+            "ADDITIONAL_FINDINGS": "[None; presence/absence pelvic fluid; presence/absence pelvic peritoneal implants; other findings]",
+            "BONES": "No aggressive bone lesions."
+        },
+        "IMPRESSION": "Cervical cancer [ summarize the cervical tumor, including extent of invasion and provide your impression of whether there are suspicious lymph nodes]."
+    },
+    "MR_ENDOMETRIAL_CANCER_STAGING": {
+        "CLINICAL_HISTORY": "[free text]",
+        "COMPARISON": "[free text]",
+        "TECHNIQUE": "Prior to and following the uneventful intravenous administration of contrast, T1 and T2 weighted images in multiple planes were obtained through the pelvis. Prior to contrast administration, diffusion-weighted images were obtained through the pelvis.",
+        "FINDINGS": {
+            "UTERUS": {
+                "MEASURES": "[ ] x [ ] x [ ] cm",
+                "OTHER_FINDINGS": "[Describe other uterine findings, excluding the tumor.]"
+            },
+            "TUMOR_SITE": "[Describe the tumor location: posterior/anterior/fundal/body/lower uterine segment]",
+            "TUMOR_SIZE": "[Give 3 dimensions (eg: 2 cm x 2 cm x 5 cm), unless the tumor is too small or ill-defined to measure, then dictate: tumor too small or too ill-defined to measure.]",
+            "MYOMETRIAL_INVASION": "[less than 50% myometrial wall thickness invasion/greater than or equal to 50% myometrial wall thickness invasion]",
+            "INVASION_OF_TUMOR_INTO_CERVIX_STROMA": "[yes/no/indeterminate]",
+            "EXTENSION_OF_TUMOR_INTO_ADJACENT_STRUCTURES": "[None/vagina/parametrium/bowel/bladder]; [presence/absence of ureteral dilatation]",
+            "ADDITIONAL_COMMENTS": "[None or add any specific comments related to the tumor here if appropriate]",
+            "OVARIES": {
+                "VISUALIZED": "[not visualized/visualized]",
+                "APPEARANCE": "[normal/abnormal]",
+                "RIGHT_OVARY_SIZE": "# x # x #cm",
+                "LEFT_OVARY_SIZE": "# x # x #cm",
+                "ABNORMAL_DESCRIPTION": "[If abnormal describe.]"
+            },
+            "LYMPH_NODES": {
+                "QUANTITY": "[no/few/many]",
+                "LARGEST_PELVIC_LYMPH_NODE_LOCATION": "[give location]",
+                "LARGEST_PELVIC_LYMPH_NODE_SIZE": "[give size]",
+                "LARGEST_PARA_AORTIC_LYMPH_NODE_SIZE": "[give size]",
+                "MALIGNANCY_LIKELIHOOD": "[likely/possibly/less likely to be/unlikely to be] malignant."
+            },
+            "ADDITIONAL_PELVIC_FINDINGS": "[None; presence/absence pelvic fluid; presence/absence pelvic peritoneal implants; other findings]",
+            "BONES": "[No aggressive bone lesions]"
+        },
+        "IMPRESSION": "Endometrial cancer [summarize the endometrial tumor, including extent of invasion and provide your impression of whether there are suspicious lymph nodes]."
+    },
+    "MR_LUMBAR_THORACIC_SPINE_DEGENERATIVE_CHANGES": {
+        "FINDINGS": {
+            "NUMBERING": "Last fully formed disc space is designated L5-S1.",
+            "SPINAL_CORD": {
+                "MYELON": "Normal signal, no myelopathy",
+                "CONUS": "Normal conus.",
+                "CONUS_TERMINATION_LEVEL": "Conus terminates at the [T12-L1] level."
+            },
+            "DISCS": "Normal.",
+            "BONES": {
+                "VERTEBRAL_BODY_HEIGHT_ALIGNMENT": "Vertebral body height and alignment are normal.",
+                "MARROW_SIGNAL": "Marrow signal is within normal limits.",
+                "VERTEBRAL_ABNORMALITIES": "No vertebral abnormalities or structural disorders."
+            },
+            "SOFT_TISSUES": "Normal.",
+            "C7-T1": "No canal or foraminal stenosis.",
+            "T1-T2": "No canal or foraminal stenosis.",
+            "T2-T3": "No canal or foraminal stenosis.",
+            "T3-T4": "No canal or foraminal stenosis.",
+            "T4-T5": "No canal or foraminal stenosis.",
+            "T5-T6": "No canal or foraminal stenosis.",
+            "T6-T7": "No canal or foraminal stenosis.",
+            "T7-T8": "No canal or foraminal stenosis.",
+            "T8-T9": "No canal or foraminal stenosis.",
+            "T9-T10": "No canal or foraminal stenosis.",
+            "T10-T11": "No canal or foraminal stenosis.",
+            "T11-T12": "No canal or foraminal stenosis.",
+            "T12-L1": "No canal or foraminal stenosis.",
+            "L1-L2": "No canal or foraminal stenosis.",
+            "L2-L3": "No canal or foraminal stenosis.",
+            "L3-L4": "No canal or foraminal stenosis.",
+            "L4-L5": "No canal or foraminal stenosis.",
+            "L5-S1": "No canal or foraminal stenosis.",
+            "OTHER": "None"
+        },
+        "IMPRESSION": "Normal MRI of the lumbar and thoracic spine."
+    },
+    "MR_COMPLETE_SPINE_DEGENERATIVE_CHANGES": {
+        "FINDINGS": {
+            "NUMBERING": {
+                "CERVICAL": "First fully formed disc space is designated C2-C3.",
+                "LUMBAR": "Last fully formed disc space is designated L5-S1."
+            },
+            "SPINAL_CORD": {
+                "MYELON": "Normal signal, no myelopathy",
+                "CONUS": "Normal conus.",
+                "CONUS_TERMINATION_LEVEL": "Conus terminates at the [T12-L1] level."
+            },
+            "DISCS": "Normal.",
+            "BONES": {
+                "VERTEBRAL_BODY_HEIGHT_ALIGNMENT": "Vertebral body height and alignment are normal.",
+                "MARROW_SIGNAL": "Marrow signal is within normal limits.",
+                "VERTEBRAL_ABNORMALITIES": "No vertebral abnormalities or structural disorders."
+            },
+            "SOFT_TISSUES": "Normal.",
+            "C2-C3": "No canal or foraminal stenosis.",
+            "C3-C4": "No canal or foraminal stenosis.",
+            "C4-C5": "No canal or foraminal stenosis.",
+            "C5-C6": "No canal or foraminal stenosis.",
+            "C6-C7": "No canal or foraminal stenosis.",
+            "C7-T1": "No canal or foraminal stenosis.",
+            "T1-T2": "No canal or foraminal stenosis.",
+            "T2-T3": "No canal or foraminal stenosis.",
+            "T3-T4": "No canal or foraminal stenosis.",
+            "T4-T5": "No canal or foraminal stenosis.",
+            "T5-T6": "No canal or foraminal stenosis.",
+            "T6-T7": "No canal or foraminal stenosis.",
+            "T7-T8": "No canal or foraminal stenosis.",
+            "T8-T9": "No canal or foraminal stenosis.",
+            "T9-T10": "No canal or foraminal stenosis.",
+            "T10-T11": "No canal or foraminal stenosis.",
+            "T11-T12": "No canal or foraminal stenosis.",
+            "T12-L1": "No canal or foraminal stenosis.",
+            "L1-L2": "No canal or foraminal stenosis.",
+            "L2-L3": "No canal or foraminal stenosis.",
+            "L3-L4": "No canal or foraminal stenosis.",
+            "L4-L5": "No canal or foraminal stenosis.",
+            "L5-S1": "No canal or foraminal stenosis.",
+            "OTHER": "None"
+        },
+        "IMPRESSION": "Normal MRI of the cervical, thoracic, and lumbar spine."
+    },
+    "MR_CEERVICAL_LUMBAR_SPINE_DEGENERATIVE_CHANGES": {
+        "FINDINGS": {
+            "NUMBERING": {
+                "CERVICAL": "First fully formed disc space is designated C2-C3.",
+                "LUMBAR": "Last fully formed disc space is designated L5-S1."
+            },
+            "SPINAL_CORD": {
+                "MYELON": "Normal signal, no myelopathy",
+                "CONUS": "Normal conus.",
+                "CONUS_TERMINATION_LEVEL": "Conus terminates at the [T12-L1] level."
+            },
+            "DISCS": "Normal.",
+            "BONES": {
+                "VERTEBRAL_BODY_HEIGHT_ALIGNMENT": "Vertebral body height and alignment are normal.",
+                "MARROW_SIGNAL": "Marrow signal is within normal limits.",
+                "VERTEBRAL_ABNORMALITIES": "No vertebral abnormalities or structural disorders."
+            },
+            "SOFT_TISSUES": "Normal.",
+            "C2-C3": "No canal or foraminal stenosis.",
+            "C3-C4": "No canal or foraminal stenosis.",
+            "C4-C5": "No canal or foraminal stenosis.",
+            "C5-C6": "No canal or foraminal stenosis.",
+            "C6-C7": "No canal or foraminal stenosis.",
+            "C7-T1": "No canal or foraminal stenosis.",
+            "T1-T2": "No canal or foraminal stenosis.",
+            "T2-T3": "No canal or foraminal stenosis.",
+            "T11-T12": "No canal or foraminal stenosis.",
+            "T12-L1": "No canal or foraminal stenosis.",
+            "L1-L2": "No canal or foraminal stenosis.",
+            "L2-L3": "No canal or foraminal stenosis.",
+            "L3-L4": "No canal or foraminal stenosis.",
+            "L4-L5": "No canal or foraminal stenosis.",
+            "L5-S1": "No canal or foraminal stenosis.",
+            "OTHER": "None"
+        },
+        "IMPRESSION": "Normal MRI of the cervical and lumbar spine."
+    },
+    "MR_CERVICAL_THORACIC_SPINE_DEGENERATIVE_CHANGES": {
+        "FINDINGS": {
+            "NUMBERING": {
+                "CERVICAL": "First fully formed disc space is designated C2-C3.",
+                "LUMBAR": "Last fully formed disc space is designated T12-L1."
+            },
+            "SPINAL_CORD": {
+                "MYELON": "Normal signal, no myelopathy",
+                "CONUS": "Normal conus.",
+                "CONUS_TERMINATION_LEVEL": "Conus terminates at the [T12-L1] level."
+            },
+            "DISCS": "Normal.",
+            "BONES": {
+                "VERTEBRAL_BODY_HEIGHT_ALIGNMENT": "Vertebral body height and alignment are normal.",
+                "MARROW_SIGNAL": "Marrow signal is within normal limits.",
+                "VERTEBRAL_ABNORMALITIES": "No vertebral abnormalities or structural disorders."
+            },
+            "SOFT_TISSUES": "Normal.",
+            "C2-C3": "No canal or foraminal stenosis.",
+            "C3-C4": "No canal or foraminal stenosis.",
+            "C4-C5": "No canal or foraminal stenosis.",
+            "C5-C6": "No canal or foraminal stenosis.",
+            "C6-C7": "No canal or foraminal stenosis.",
+            "C7-T1": "No canal or foraminal stenosis.",
+            "T1-T2": "No canal or foraminal stenosis.",
+            "T2-T3": "No canal or foraminal stenosis.",
+            "T3-T4": "No canal or foraminal stenosis.",
+            "T4-T5": "No canal or foraminal stenosis.",
+            "T5-T6": "No canal or foraminal stenosis.",
+            "T6-T7": "No canal or foraminal stenosis.",
+            "T7-T8": "No canal or foraminal stenosis.",
+            "T8-T9": "No canal or foraminal stenosis.",
+            "T9-T10": "No canal or foraminal stenosis.",
+            "T10-T11": "No canal or foraminal stenosis.",
+            "T11-T12": "No canal or foraminal stenosis.",
+            "T12-L1": "No canal or foraminal stenosis.",
+            "L1-L2": "No canal or foraminal stenosis.",
+            "OTHER": "None"
+        },
+        "IMPRESSION": "Normal MRI of the cervical and thoracic spine."
+    },
+    "MR_ANGIOGRAPHY_WHOLE_BODY": {
+        "TECHNIQUE": "3 Tesla MRI scanner",
+        "CONTRAST": "Gadolinium-based contrast agent",
+        "CLINICAL_HISTORY": "[Reason for Exam - e.g., evaluate for peripheral vascular disease, known or suspected vasculitis, or arteriovenous malformation]",
+        "FINDINGS": {
+            "HEAD_AND_NECK": {
+                "CIRCLE_OF_WILLIS": {
+                    "ACA": {
+                        "LEFT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]",
+                        "RIGHT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]"
+                    },
+                    "ACOM": {
+                        "LEFT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]",
+                        "RIGHT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]"
+                    },
+                    "MCA": {
+                        "LEFT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]",
+                        "RIGHT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]"
+                    },
+                    "PCOM": {
+                        "LEFT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]",
+                        "RIGHT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]"
+                    },
+                    "PCA": {
+                        "LEFT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]",
+                        "RIGHT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]"
+                    },
+                    "BASILAR_ARTERY": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]",
+                    "PICA": {
+                        "LEFT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]",
+                        "RIGHT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]"
+                    },
+                    "AICA": {
+                        "LEFT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]",
+                        "RIGHT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]"
+                    }
+                },
+                "CAROTID_ARTERIES": {
+                    "ICA": {
+                        "LEFT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]",
+                        "RIGHT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]"
+                    },
+                    "ECA": {
+                        "LEFT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]",
+                        "RIGHT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]"
+                    }
+                },
+                "VERTEBRAL_ARTERIES": {
+                    "LEFT": "[Normal / Abnormal - e.g., Hypoplasia, Stenosis, Occlusion]",
+                    "RIGHT": "[Normal / Abnormal - e.g., Hypoplasia, Stenosis, Occlusion]"
+                },
+                "JUGULAR_VEINS": {
+                    "LEFT": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "RIGHT": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]"
+                }
+            },
+            "THORAX": {
+                "AORTA": {
+                    "ASCENDING_AORTA": "[Normal / Abnormal - e.g., Aneurysm, Dissection, Coarctation]",
+                    "AORTIC_ARCH": "[Normal / Abnormal - e.g., Aneurysm, Dissection, Coarctation]",
+                    "DESCENDING_AORTA": "[Normal / Abnormal - e.g., Aneurysm, Dissection, Coarctation]"
+                },
+                "PULMONARY_ARTERIES": {
+                    "TRUNK": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "LEFT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                },
+                "SUBCLAVIAN_AND_AXILLARY_ARTERIES": {
+                    "LEFT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                },
+                "BRACHIAL_ARTERIES": {
+                    "LEFT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                },
+                "VENOUS_SYSTEM": {
+                    "SUPERIOR_VENA_CAVA": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "PULMONARY_VEINS": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]"
+                }
+            },
+            "ABDOMEN": {
+                "ABDOMINAL_AORTA": "[Normal / Abnormal - e.g., Aneurysm, Dissection, Plaque]",
+                "CELIAC_TRUNK": {
+                    "TRUNK": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "HEPATIC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "SPLENIC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "GASTRIC_ARTERIES": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                },
+                "SMA": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                "IMA": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                "RENAL_ARTERIES": {
+                    "LEFT": "[Normal / Abnormal - e.g., Stenosis, Aneurysm, Fibromuscular Dysplasia]",
+                    "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Aneurysm, Fibromuscular Dysplasia]"
+                },
+                "VENOUS_SYSTEM": {
+                    "INFERIOR_VENA_CAVA": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "PORTAL_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "RENAL_VEINS": {
+                        "LEFT": "[Normal / Abnormal - e.g., Stenosis, Aneurysm, Fibromuscular Dysplasia]",
+                        "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Aneurysm, Fibromuscular Dysplasia]"
+                    }
+                }
+            },
+            "PELVIS": {
+                "ILIAC_ARTERIES": {
+                    "LEFT_COMMON_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT_COMMON_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "LEFT_EXTERNAL_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT_EXTERNAL_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "LEFT_INTERNAL_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT_INTERNAL_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                },
+                "VENOUS_SYSTEM": {
+                    "LEFT_COMMON_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "RIGHT_COMMON_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "LEFT_EXTERNAL_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "RIGHT_EXTERNAL_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "LEFT_INTERNAL_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "RIGHT_INTERNAL_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]"
+                }
+            },
+            "LOWER_EXTREMITIES": {
+                "FEMORAL_ARTERIES": {
+                    "LEFT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                },
+                "POPLITEAL_ARTERIES": {
+                    "LEFT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                },
+                "TIBIAL_AND_PERONEAL_ARTERIES": {
+                    "TRUNK": {
+                        "LEFT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                        "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                    },
+                    "ANTERIOR_TIBIAL_ARTERY": {
+                        "LEFT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                        "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                    },
+                    "PERONEAL_ARTERY": {
+                        "LEFT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                        "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                    },
+                    "POSTERIOR_TIBIAL_ARTERY": {
+                        "LEFT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                        "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                    }
+                },
+                "VENOUS_SYSTEM": {
+                    "LEFT_FEMORAL_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "RIGHT_FEMORAL_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "LEFT_GREAT_SAPHENOUS_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis, Varicosities]",
+                    "RIGHT_GREAT_SAPHENOUS_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis, Varicosities]",
+                    "LEFT_SMALL_SAPHENOUS_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis, Varicosities]",
+                    "RIGHT_SMALL_SAPHENOUS_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis, Varicosities]"
+                }
+            }
+        },
+        "IMPRESSION": [
+            "[Summary of Findings - e.g., No significant stenosis or aneurysm within the evaluated vasculature.]",
+            "[Additional Findings - e.g., Mild atherosclerotic plaque in the left internal carotid artery, not causing significant stenosis.]",
+            "[Recommendations - e.g., Follow-up as clinically indicated.]"
+        ]
+    },
+    "MR_ANGIOGRAPHY_HEAD_AND_NECK": {
+        "TECHNIQUE": "3 Tesla MRI scanner",
+        "CONTRAST": "Gadolinium-based contrast agent",
+        "CLINICAL_HISTORY": "[Reason for Exam - e.g., evaluate for peripheral vascular disease, known or suspected vasculitis, or arteriovenous malformation]",
+        "FINDINGS": {
+            "CIRCLE_OF_WILLIS": {
+                "ACA": {
+                    "LEFT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]",
+                    "RIGHT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]"
+                },
+                "ACOM": {
+                    "LEFT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]",
+                    "RIGHT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]"
+                },
+                "MCA": {
+                    "LEFT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]",
+                    "RIGHT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]"
+                },
+                "PCOM": {
+                    "LEFT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]",
+                    "RIGHT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]"
+                },
+                "PCA": {
+                    "LEFT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]",
+                    "RIGHT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]"
+                },
+                "BASILAR_ARTERY": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]",
+                "PICA": {
+                    "LEFT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]",
+                    "RIGHT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]"
+                },
+                "AICA": {
+                    "LEFT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]",
+                    "RIGHT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]"
+                }
+            },
+            "CAROTID_ARTERIES": {
+                "ICA": {
+                    "LEFT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]",
+                    "RIGHT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]"
+                },
+                "ECA": {
+                    "LEFT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]",
+                    "RIGHT": "[Normal / Abnormal - e.g., Plaque, Stenosis, Dissection]"
+                }
+            },
+            "VERTEBRAL_ARTERIES": {
+                "LEFT": "[Normal / Abnormal - e.g., Hypoplasia, Stenosis, Occlusion]",
+                "RIGHT": "[Normal / Abnormal - e.g., Hypoplasia, Stenosis, Occlusion]"
+            },
+            "JUGULAR_VEINS": {
+                "LEFT": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                "RIGHT": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]"
+            }
+        },
+        "IMPRESSION": [
+            "[Summary of Findings - e.g., No significant stenosis or aneurysm within the evaluated vasculature.]",
+            "[Additional Findings - e.g., Mild atherosclerotic plaque in the left internal carotid artery, not causing significant stenosis.]",
+            "[Recommendations - e.g., Follow-up as clinically indicated.]"
+        ]
+    },
+    "MR_ANGIOGRAPHY_THORAX": {
+        "TECHNIQUE": "3 Tesla MRI scanner",
+        "CONTRAST": "Gadolinium-based contrast agent",
+        "CLINICAL_HISTORY": "[Reason for Exam - e.g., evaluate for peripheral vascular disease, known or suspected vasculitis, or arteriovenous malformation]",
+        "FINDINGS": {
+            "AORTA": {
+                "ASCENDING_AORTA": "[Normal / Abnormal - e.g., Aneurysm, Dissection, Coarctation]",
+                "AORTIC_ARCH": "[Normal / Abnormal - e.g., Aneurysm, Dissection, Coarctation]",
+                "DESCENDING_AORTA": "[Normal / Abnormal - e.g., Aneurysm, Dissection, Coarctation]"
+            },
+            "PULMONARY_ARTERIES": {
+                "TRUNK": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                "LEFT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+            },
+            "SUBCLAVIAN_AND_AXILLARY_ARTERIES": {
+                "LEFT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+            },
+            "BRACHIAL_ARTERIES": {
+                "LEFT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+            },
+            "VENOUS_SYSTEM": {
+                "SUPERIOR_VENA_CAVA": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                "PULMONARY_VEINS": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]"
+            }
+        },
+        "IMPRESSION": [
+            "[Summary of Findings - e.g., No significant stenosis or aneurysm within the evaluated vasculature.]",
+            "[Additional Findings - e.g., Mild atherosclerotic plaque in the left brachial artery, not causing significant stenosis.]",
+            "[Recommendations - e.g., Follow-up as clinically indicated.]"
+        ]
+    },
+    "MR_ANGIOGRAPHY_ABDOMEN": {
+        "TECHNIQUE": "3 Tesla MRI scanner",
+        "CONTRAST": "Gadolinium-based contrast agent",
+        "CLINICAL_HISTORY": "[Reason for Exam - e.g., evaluate for peripheral vascular disease, known or suspected vasculitis, or arteriovenous malformation]",
+        "FINDINGS": {
+            "ABDOMEN": {
+                "ABDOMINAL_AORTA": "[Normal / Abnormal - e.g., Aneurysm, Dissection, Plaque]",
+                "CELIAC_TRUNK": {
+                    "TRUNK": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "HEPATIC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "SPLENIC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "GASTRIC_ARTERIES": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                },
+                "SMA": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                "IMA": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                "RENAL_ARTERIES": {
+                    "LEFT": "[Normal / Abnormal - e.g., Stenosis, Aneurysm, Fibromuscular Dysplasia]",
+                    "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Aneurysm, Fibromuscular Dysplasia]"
+                },
+                "VENOUS_SYSTEM": {
+                    "INFERIOR_VENA_CAVA": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "PORTAL_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "RENAL_VEINS": {
+                        "LEFT": "[Normal / Abnormal - e.g., Stenosis, Aneurysm, Fibromuscular Dysplasia]",
+                        "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Aneurysm, Fibromuscular Dysplasia]"
+                    }
+                }
+            },
+            "PELVIS": {
+                "ILIAC_ARTERIES": {
+                    "LEFT_COMMON_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT_COMMON_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "LEFT_EXTERNAL_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT_EXTERNAL_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "LEFT_INTERNAL_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT_INTERNAL_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                },
+                "VENOUS_SYSTEM": {
+                    "LEFT_COMMON_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "RIGHT_COMMON_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "LEFT_EXTERNAL_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "RIGHT_EXTERNAL_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "LEFT_INTERNAL_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "RIGHT_INTERNAL_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]"
+                }
+            }
+        },
+        "IMPRESSION": [
+            "[Summary of Findings - e.g., No significant stenosis or aneurysm within the evaluated vasculature.]",
+            "[Additional Findings - e.g., Mild atherosclerotic plaque in the left internal iliac artery, not causing significant stenosis.]",
+            "[Recommendations - e.g., Follow-up as clinically indicated.]"
+        ]
+    },
+    "MR_ANGIOGRAPHY_EXTREMITIES": {
+        "TECHNIQUE": "3 Tesla MRI scanner",
+        "CONTRAST": "Gadolinium-based contrast agent",
+        "CLINICAL_HISTORY": "[Reason for Exam - e.g., evaluate for peripheral vascular disease, known or suspected vasculitis, or arteriovenous malformation]",
+        "FINDINGS": {
+            "PELVIS": {
+                "ILIAC_ARTERIES": {
+                    "LEFT_COMMON_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT_COMMON_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "LEFT_EXTERNAL_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT_EXTERNAL_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "LEFT_INTERNAL_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT_INTERNAL_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                },
+                "VENOUS_SYSTEM": {
+                    "LEFT_COMMON_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "RIGHT_COMMON_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "LEFT_EXTERNAL_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "RIGHT_EXTERNAL_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "LEFT_INTERNAL_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "RIGHT_INTERNAL_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]"
+                }
+            },
+            "LOWER_EXTREMITIES": {
+                "FEMORAL_ARTERIES": {
+                    "LEFT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                },
+                "POPLITEAL_ARTERIES": {
+                    "LEFT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                },
+                "TIBIAL_AND_PERONEAL_ARTERIES": {
+                    "TRUNK": {
+                        "LEFT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                        "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                    },
+                    "ANTERIOR_TIBIAL_ARTERY": {
+                        "LEFT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                        "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                    },
+                    "PERONEAL_ARTERY": {
+                        "LEFT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                        "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                    },
+                    "POSTERIOR_TIBIAL_ARTERY": {
+                        "LEFT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                        "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                    }
+                },
+                "VENOUS_SYSTEM": {
+                    "LEFT_FEMORAL_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "RIGHT_FEMORAL_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "LEFT_GREAT_SAPHENOUS_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis, Varicosities]",
+                    "RIGHT_GREAT_SAPHENOUS_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis, Varicosities]",
+                    "LEFT_SMALL_SAPHENOUS_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis, Varicosities]",
+                    "RIGHT_SMALL_SAPHENOUS_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis, Varicosities]"
+                }
+            }
+        },
+        "IMPRESSION": [
+            "[Summary of Findings - e.g., No significant stenosis or aneurysm within the evaluated vasculature.]",
+            "[Additional Findings - e.g., Mild atherosclerotic plaque in the left internal iliac artery, not causing significant stenosis.]",
+            "[Recommendations - e.g., Follow-up as clinically indicated.]"
+        ]
+    },
+    "CT_ANGIOGRAPHY_ABDOMEN": {
+        "TECHNIQUE": "64-slice CT scanner",
+        "CONTRAST": "Iodinated contrast agent",
+        "CLINICAL_HISTORY": "[Reason for Exam - e.g., evaluate for peripheral vascular disease, known or suspected vasculitis, or arteriovenous malformation]",
+        "FINDINGS": {
+            "ABDOMEN": {
+                "ABDOMINAL_AORTA": "[Normal / Abnormal - e.g., Aneurysm, Dissection, Plaque]",
+                "CELIAC_TRUNK": {
+                    "TRUNK": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "HEPATIC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "SPLENIC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "GASTRIC_ARTERIES": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                },
+                "SMA": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                "IMA": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                "RENAL_ARTERIES": {
+                    "LEFT": "[Normal / Abnormal - e.g., Stenosis, Aneurysm, Fibromuscular Dysplasia]",
+                    "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Aneurysm, Fibromuscular Dysplasia]"
+                },
+                "VENOUS_SYSTEM": {
+                    "INFERIOR_VENA_CAVA": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "PORTAL_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "RENAL_VEINS": {
+                        "LEFT": "[Normal / Abnormal - e.g., Stenosis, Aneurysm, Fibromuscular Dysplasia]",
+                        "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Aneurysm, Fibromuscular Dysplasia]"
+                    }
+                }
+            },
+            "PELVIS": {
+                "ILIAC_ARTERIES": {
+                    "LEFT_COMMON_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT_COMMON_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "LEFT_EXTERNAL_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT_EXTERNAL_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "LEFT_INTERNAL_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT_INTERNAL_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                },
+                "VENOUS_SYSTEM": {
+                    "LEFT_COMMON_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "RIGHT_COMMON_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "LEFT_EXTERNAL_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "RIGHT_EXTERNAL_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "LEFT_INTERNAL_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "RIGHT_INTERNAL_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]"
+                }
+            }
+        },
+        "IMPRESSION": [
+            "[Summary of Findings - e.g., No significant stenosis or aneurysm within the evaluated vasculature.]",
+            "[Additional Findings - e.g., Mild atherosclerotic plaque in the left internal iliac artery, not causing significant stenosis.]",
+            "[Recommendations - e.g., Follow-up as clinically indicated.]"
+        ]
+    },
+    "CT_ANGIOGRAPHY_EXTREMITIES": {
+        "TECHNIQUE": "64-slice CT scanner",
+        "CONTRAST": "Iodinated contrast agent",
+        "CLINICAL_HISTORY": "[Reason for Exam - e.g., evaluate for peripheral vascular disease, known or suspected vasculitis, or arteriovenous malformation]",
+        "FINDINGS": {
+            "PELVIS": {
+                "ILIAC_ARTERIES": {
+                    "LEFT_COMMON_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT_COMMON_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "LEFT_EXTERNAL_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT_EXTERNAL_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "LEFT_INTERNAL_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT_INTERNAL_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                },
+                "VENOUS_SYSTEM": {
+                    "LEFT_COMMON_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "RIGHT_COMMON_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "LEFT_EXTERNAL_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "RIGHT_EXTERNAL_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "LEFT_INTERNAL_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "RIGHT_INTERNAL_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]"
+                }
+            },
+            "LOWER_EXTREMITIES": {
+                "FEMORAL_ARTERIES": {
+                    "LEFT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                },
+                "POPLITEAL_ARTERIES": {
+                    "LEFT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                },
+                "TIBIAL_AND_PERONEAL_ARTERIES": {
+                    "TRUNK": {
+                        "LEFT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                        "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                    },
+                    "ANTERIOR_TIBIAL_ARTERY": {
+                        "LEFT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                        "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                    },
+                    "PERONEAL_ARTERY": {
+                        "LEFT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                        "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                    },
+                    "POSTERIOR_TIBIAL_ARTERY": {
+                        "LEFT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                        "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                    }
+                },
+                "VENOUS_SYSTEM": {
+                    "LEFT_FEMORAL_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "RIGHT_FEMORAL_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "LEFT_GREAT_SAPHENOUS_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis, Varicosities]",
+                    "RIGHT_GREAT_SAPHENOUS_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis, Varicosities]",
+                    "LEFT_SMALL_SAPHENOUS_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis, Varicosities]",
+                    "RIGHT_SMALL_SAPHENOUS_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis, Varicosities]"
+                }
+            }
+        },
+        "IMPRESSION": [
+            "[Summary of Findings - e.g., No significant stenosis or aneurysm within the evaluated vasculature.]",
+            "[Additional Findings - e.g., Mild atherosclerotic plaque in the left internal iliac artery, not causing significant stenosis.]",
+            "[Recommendations - e.g., Follow-up as clinically indicated.]"
+        ]
+    },
+    "CT_ANGIOGRAPHY_THORAX_ABDOMEN": {
+        "TECHNIQUE": "3 Tesla MRI scanner",
+        "CONTRAST": "Gadolinium-based contrast agent",
+        "CLINICAL_HISTORY": "[Reason for Exam - e.g., evaluate for peripheral vascular disease, known or suspected vasculitis, or arteriovenous malformation]",
+        "FINDINGS": {
+            "THORAX": {
+                "AORTA": {
+                    "ASCENDING_AORTA": "[Normal / Abnormal - e.g., Aneurysm, Dissection, Coarctation]",
+                    "AORTIC_ARCH": "[Normal / Abnormal - e.g., Aneurysm, Dissection, Coarctation]",
+                    "DESCENDING_AORTA": "[Normal / Abnormal - e.g., Aneurysm, Dissection, Coarctation]"
+                },
+                "PULMONARY_ARTERIES": {
+                    "TRUNK": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "LEFT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                },
+                "SUBCLAVIAN_AND_AXILLARY_ARTERIES": {
+                    "LEFT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                },
+                "BRACHIAL_ARTERIES": {
+                    "LEFT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                },
+                "VENOUS_SYSTEM": {
+                    "SUPERIOR_VENA_CAVA": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "PULMONARY_VEINS": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]"
+                }
+            },
+            "ABDOMEN": {
+                "ABDOMINAL_AORTA": "[Normal / Abnormal - e.g., Aneurysm, Dissection, Plaque]",
+                "CELIAC_TRUNK": {
+                    "TRUNK": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "HEPATIC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "SPLENIC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "GASTRIC_ARTERIES": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                },
+                "SMA": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                "IMA": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                "RENAL_ARTERIES": {
+                    "LEFT": "[Normal / Abnormal - e.g., Stenosis, Aneurysm, Fibromuscular Dysplasia]",
+                    "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Aneurysm, Fibromuscular Dysplasia]"
+                },
+                "VENOUS_SYSTEM": {
+                    "INFERIOR_VENA_CAVA": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "PORTAL_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "RENAL_VEINS": {
+                        "LEFT": "[Normal / Abnormal - e.g., Stenosis, Aneurysm, Fibromuscular Dysplasia]",
+                        "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Aneurysm, Fibromuscular Dysplasia]"
+                    }
+                }
+            },
+            "PELVIS": {
+                "ILIAC_ARTERIES": {
+                    "LEFT_COMMON_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT_COMMON_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "LEFT_EXTERNAL_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT_EXTERNAL_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "LEFT_INTERNAL_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT_INTERNAL_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                },
+                "VENOUS_SYSTEM": {
+                    "LEFT_COMMON_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "RIGHT_COMMON_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "LEFT_EXTERNAL_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "RIGHT_EXTERNAL_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "LEFT_INTERNAL_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "RIGHT_INTERNAL_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]"
+                }
+            }
+        },
+        "IMPRESSION": [
+            "[Summary of Findings - e.g., No significant stenosis or aneurysm within the evaluated vasculature.]",
+            "[Additional Findings - e.g., Mild atherosclerotic plaque in the left internal carotid artery, not causing significant stenosis.]",
+            "[Recommendations - e.g., Follow-up as clinically indicated.]"
+        ]
+    },
+    "CT_ANGIOGRAPHY_ABDOMEN_EXTREMITIES": {
+        "TECHNIQUE": "3 Tesla MRI scanner",
+        "CONTRAST": "Gadolinium-based contrast agent",
+        "CLINICAL_HISTORY": "[Reason for Exam - e.g., evaluate for peripheral vascular disease, known or suspected vasculitis, or arteriovenous malformation]",
+        "FINDINGS": {
+            "ABDOMEN": {
+                "ABDOMINAL_AORTA": "[Normal / Abnormal - e.g., Aneurysm, Dissection, Plaque]",
+                "CELIAC_TRUNK": {
+                    "TRUNK": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "HEPATIC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "SPLENIC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "GASTRIC_ARTERIES": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                },
+                "SMA": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                "IMA": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                "RENAL_ARTERIES": {
+                    "LEFT": "[Normal / Abnormal - e.g., Stenosis, Aneurysm, Fibromuscular Dysplasia]",
+                    "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Aneurysm, Fibromuscular Dysplasia]"
+                },
+                "VENOUS_SYSTEM": {
+                    "INFERIOR_VENA_CAVA": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "PORTAL_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "RENAL_VEINS": {
+                        "LEFT": "[Normal / Abnormal - e.g., Stenosis, Aneurysm, Fibromuscular Dysplasia]",
+                        "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Aneurysm, Fibromuscular Dysplasia]"
+                    }
+                }
+            },
+            "PELVIS": {
+                "ILIAC_ARTERIES": {
+                    "LEFT_COMMON_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT_COMMON_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "LEFT_EXTERNAL_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT_EXTERNAL_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "LEFT_INTERNAL_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT_INTERNAL_ILIAC_ARTERY": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                },
+                "VENOUS_SYSTEM": {
+                    "LEFT_COMMON_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "RIGHT_COMMON_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "LEFT_EXTERNAL_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "RIGHT_EXTERNAL_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "LEFT_INTERNAL_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "RIGHT_INTERNAL_ILIAC_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]"
+                }
+            },
+            "LOWER_EXTREMITIES": {
+                "FEMORAL_ARTERIES": {
+                    "LEFT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                },
+                "POPLITEAL_ARTERIES": {
+                    "LEFT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                    "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                },
+                "TIBIAL_AND_PERONEAL_ARTERIES": {
+                    "TRUNK": {
+                        "LEFT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                        "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                    },
+                    "ANTERIOR_TIBIAL_ARTERY": {
+                        "LEFT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                        "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                    },
+                    "PERONEAL_ARTERY": {
+                        "LEFT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                        "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                    },
+                    "POSTERIOR_TIBIAL_ARTERY": {
+                        "LEFT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]",
+                        "RIGHT": "[Normal / Abnormal - e.g., Stenosis, Occlusion, Aneurysm]"
+                    }
+                },
+                "VENOUS_SYSTEM": {
+                    "LEFT_FEMORAL_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "RIGHT_FEMORAL_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis]",
+                    "LEFT_GREAT_SAPHENOUS_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis, Varicosities]",
+                    "RIGHT_GREAT_SAPHENOUS_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis, Varicosities]",
+                    "LEFT_SMALL_SAPHENOUS_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis, Varicosities]",
+                    "RIGHT_SMALL_SAPHENOUS_VEIN": "[Normal / Abnormal - e.g., Thrombosis, Stenosis, Varicosities]"
+                }
+            }
+        },
+        "IMPRESSION": [
+            "[Summary of Findings - e.g., No significant stenosis or aneurysm within the evaluated vasculature.]",
+            "[Additional Findings - e.g., Mild atherosclerotic plaque in the left internal carotid artery, not causing significant stenosis.]",
+            "[Recommendations - e.g., Follow-up as clinically indicated.]"
+        ]
+    },
+    "MR_ABDOMEN": {
+        "TECHNIQUE": "",
+        "CLINICAL_INDICATION": "",
+        "EXAMINATION": "",
+        "FINDINGS": {
+            "LIVER": {
+                "SIZE": "",
+                "CONTOUR": "",
+                "SIGNAL_INTENSITY": "",
+                "FOCAL_LESIONS": "",
+                "BILIARY_DILATATION": "",
+                "INTRAHEPATIC_DUCTS": "",
+                "OTHER": ""
+            },
+            "GALLBLADDER": {
+                "DISTENDED": "",
+                "GALLSTONES": "",
+                "WALL_THICKENING": "",
+                "PERICHOLECYSTIC_FLUID": "",
+                "BILIARY_DILATATION": "",
+                "OTHER": ""
+            },
+            "PANCREAS": {
+                "SIZE": "",
+                "SIGNAL_INTENSITY": "",
+                "FOCAL_LESIONS": "",
+                "DUCTAL_DILATATION": "",
+                "LESIONS": "",
+                "OTHER": ""
+            },
+            "SPLEEN": {
+                "SIZE": "",
+                "SIGNAL_INTENSITY": "",
+                "FOCAL_LESIONS": "",
+                "OTHER": ""
+            },
+            "KIDNEYS": {
+                "SIZE": "",
+                "SIGNAL_INTENSITY": "",
+                "FOCAL_LESIONS": "",
+                "HYDRONEPHROSIS": "",
+                "RENAL_CALCULI": "",
+                "CORTICOMEDULLARY_DIFFERENTIATION": "",
+                "OTHER": ""
+            },
+            "ADRENAL_GLANDS": {
+                "SIZE": "",
+                "SIGNAL_INTENSITY": "",
+                "ADRENAL_MASSES": "",
+                "OTHER": ""
+            },
+            "GI_TRACT": {
+                "STOMACH": "",
+                "SMALL_BOWEL": "",
+                "COLON": "",
+                "WALL_THICKNESS": "",
+                "SIGNAL_INTENSITY": "",
+                "OBSTRUCTION": "",
+                "INFLAMMATORY_CHANGES": "",
+                "OTHER": ""
+            },
+            "LYMPH_NODES": {
+                "ENLARGED_ABDOMINAL_NODES": "",
+                "OTHER": ""
+            },
+            "PERITONEUM": {
+                "ASCITES": "",
+                "FREE_AIR": "",
+                "OTHER": ""
+            },
+            "VESSELS": {
+                "AORTA": "",
+                "IVC": "",
+                "ANEURYSM": "",
+                "DISSECTION": "",
+                "OTHER": ""
+            },
+            "BASAL_LUNGS": {
+                "VENTILATION": "",
+                "EFFUSION": "",
+                "INFILTRATION": "",
+                "FOCAL_LESIONS": "",
+                "OTHER": ""
+            },
+            "SPINE_AND_PELVIS": {
+                "FOCAL_LESIONS": "",
+                "FACTURES": "",
+                "BONE_MARROW_SIGNAL": "",
+                "OTHER": ""
+            }
+        },
+        "IMPRESSION": {
+            "MAIN_FINDINGS": "",
+            "OTHER_ABNORMALITIES": ""
+        },
+        "RECOMMENDATION": ""
+    },
+    "MR_NECK": {
+        "TECHNIQUE": "",
+        "CLINICAL_INDICATION": "",
+        "EXAMINATION": "",
+        "FINDINGS": {
+            "CERVICAL_SPINE": {
+                "ALIGNMENT": "",
+                "VERTEBRAL_BODIES": "",
+                "DISC_SPACES": "",
+                "SPINAL_CORD": ""
+            },
+            "PARASPINAL_SOFT_TISSUES": {
+                "MUSCLES": "",
+                "FASCIAL_PLANES": ""
+            },
+            "NECK_VESSELS": {
+                "CAROTID_ARTERIES": {
+                    "LEFT": "",
+                    "RIGHT": ""
+                },
+                "JUGULAR_VEINS": {
+                    "LEFT": "",
+                    "RIGHT": ""
+                },
+                "VERTEBRAL_ARTERIES": {
+                    "LEFT": "",
+                    "RIGHT": ""
+                }
+            },
+            "SALIVARY_GLANDS": {
+                "PAROTID_GLANDS": {
+                    "LEFT": "",
+                    "RIGHT": ""
+                },
+                "SUBMANDIBULAR_GLANDS": {
+                    "LEFT": "",
+                    "RIGHT": ""
+                },
+                "SUBLINGUAL_GLANDS": {
+                    "LEFT": "",
+                    "RIGHT": ""
+                }
+            },
+            "LYMPH_NODES": {
+                "SIZE": "",
+                "SHAPE": "",
+                "SIGNAL_INTENSITY": "",
+                "INFLAMMATORY_CHANGES": "",
+                "METASTATIC_SUSPICION": ""
+            },
+            "THYROID_GLAND": {
+                "SIZE": "",
+                "SIGNAL_INTENSITY": "",
+                "INFLAMMATORY_CHANGES": "",
+                "NODULE": "",
+                "MASS": ""
+            },
+            "PHARYNX_AND_LARYNX": {
+                "OROPHARYNX": "",
+                "HYPOPHARYNX": "",
+                "LARYNX": "",
+                "EPIGLOTTIS": "",
+                "VOCAL_CORDS": "",
+                "TUMOR": "",
+                "INFLAMMATORY_CHANGES": ""
+            },
+            "SURROUNDING_SOFT_TISSUES": {
+                "MASS": "",
+                "INFLAMMATORY_CHANGES": "",
+                "TUMOR_INVASION": "",
+                "VASCULAR_INVASION": "",
+                "NERVE_INVASION": ""
+            }
+        },
+        "IMPRESSION": {
+            "TUMOR_PRESENCE": "",
+            "INFLAMMATORY_PROCESS": "",
+            "OTHER_ABNORMALITIES": ""
+        },
+        "RECOMMENDATION": ""
+    },
+    "CT_KIDNEY_STONES": {
+        "CLINICAL_HISTORY": "",
+        "TECHNIQUE": {
+            "CT_TECNIQUE": "",
+            "RADIATION_DOSE": ""
+        },
+        "COMPARISON": "",
+        "FINDINGS": {
+            "STONES_PRESENT": "",
+            "NUMBER_OF_STONES": "",
+            "LOCATION": {
+                "LEFT_KIDNEY": "[Upper pole / Mid pole / Lower pole / Renal pelvis / Staghorn] OR [Normal. No calculus or hydronephrosis.]",
+                "RIGHT_KIDNEY": "[Upper pole / Mid pole / Lower pole / Renal pelvis / Staghorn] OR [Normal. No calculus or hydronephrosis.]",
+                "LEFT_URETER": "[Ureteropelvic junction / Proximal / Distal / Ureterovesical junction ] OR [Normal. No calculus or hydroureter.]",
+                "RIGHT_URETER": "[Ureteropelvic junction / Proximal / Distal / Ureterovesical junction ] OR [Normal. No calculus or hydroureter.]",
+                "BLADDER": " [Normal. No calculus.]"
+            },
+            "SECONDARY_SIGNS": "[Hydronephrosis/Hydroureter / Perinephric stranding / Periurreteral stranding / Delayed renal excretion]",
+            "OTHER_FINDINGS": {
+                "LUNG_BASES": "[Clear]",
+                "LIVER": "[Normal]",
+                "PANCREAS": "[Normal]",
+                "SPLEEN": "[Normal]",
+                "ADRENALS": "[Normal]",
+                "BOWEL": "[Normal]",
+                "ADENOPATHY": "[Normal]",
+                "PELVIS": "[Normal]"
+            }
+        },
+        "IMPRESSION": ""
+    },
+    "MR_PROSTATE": {
+        "INDICATION": {
+            "DATE": "",
+            "SERUM_PSA_LEVEL": "",
+            "PRIOR_BIOPSY": {
+                "TYPE": "",
+                "DATE": "",
+                "RESULTS": ""
+            },
+            "PRIOR_THERAPY": {
+                "RADIATION": "",
+                "HORMONES": ""
+            }
+        },
+        "TECHNIQUE": {
+            "PI_RADS_COMPLIANT": "",
+            "FIELD_STRENGTH": "",
+            "COILS_USED": "",
+            "IV_CONTRAST_ADMINISTRATION": {
+                "ROUTE": "",
+                "RATE": ""
+            },
+            "PULSE_SEQUENCE_PARAMETERS": ""
+        },
+        "COMPARISON": "",
+        "FINDINGS": {
+            "QUALITY": "",
+            "PERIPHERAL_ZONE": "[Overall impression of peripheral zone]",
+            "TRANSITION_ZONE": "[Overall impression of transitional zone]",
+            "LESIONS": [
+                {
+                    "HEMORRHAGE": "",
+                    "RANK": "",
+                    "ZONE": "",
+                    "SIDE": "",
+                    "POSITION": "",
+                    "IMAGE_SERIES_NUMBER": "",
+                    "LENGTH": "",
+                    "WIDTH": "",
+                    "HEIGHT": "",
+                    "VOLUME": "",
+                    "PSA_DENSITY": "",
+                    "EXTRA_PROSTATIC_EXTENSION": "",
+                    "PI_RADS_CATEGORY": ""
+                }
+            ],
+            "NEUROVASCULAR_BUNDLES": {
+                "IMPRESSION": "",
+                "DISTANCE_FROM_INDEX_LESION": ""
+            },
+            "SEMINAL_VESICLES": "",
+            "LYMPH_NODES": "",
+            "BONES": "",
+            "OTHER_PELVIC_ORGANS": ""
+        },
+        "IMPRESSION": [
+            {
+                "LESION_NUMBER": "",
+                "OVERALL_PI_RADS_CATEGORY": ""
+            }
+        ]
+    }
+}
