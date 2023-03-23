@@ -53,10 +53,13 @@ install the the `openai` python package, to be able to assess the OpenAI api.
 You will need an API-Key to be able to use the OpenAI api. 
 
 
-
-## Run the Flask app:
+# Demo
+You can access the app [here](http://kbressem.pythonanywhere.com/)
 
 ![image](https://user-images.githubusercontent.com/37253540/226769001-ddb5968d-f3ea-4e40-9d30-721e7a1a0369.png)
+
+
+## Run the Flask app locally:
 
 Given you have installed all dependecies, you can run the demo application with
 ```bash
