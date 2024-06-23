@@ -26,8 +26,7 @@ This repository demonstrates how radiology reports can be structured using OpenA
 ├── examples
 │   └── structure_mimic.ipynb  # An example usecase on how GPT could structure the MIMIC dataset
 ├── reports                     
-│   ├── reports.json           # Unstructured reports
-│   ├── structured_reports.json  # Source file for reports.html
+│   ├── structured_reports.json  # structured and structures reports
 │   └── xray_reports.json      # Structured chest x-ray reports
 └── scripts
     ├── json-to-html-table.py
